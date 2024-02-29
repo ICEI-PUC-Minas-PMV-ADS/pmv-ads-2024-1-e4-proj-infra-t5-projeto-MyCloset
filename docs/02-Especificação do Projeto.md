@@ -77,10 +77,18 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+
+|ID    | Descrição do Requisito                                                                                     |Prioridade|
+|------|------------------------------------------------------------------------------------------------------------|----------|
+|RF-001| O sistema deve permitir que o usuário cadastre peças de roupas.                                            |   ALTA   | 
+|RF-002| Os usuários devem poder cadastrar informações sobre suas roupas, como sua categoria.                       |   MÉDIA  |
+|RF-003| Os usuários podem adicionar uma foto da roupa ao cadastrá-la.                                              |   ALTA   | 
+|RF-004| O cadastro de roupas deve ser intuitivo e fácil de completar.                                              |   MÉDIA  |
+|RF-005| Os usuários podem filtrar suas roupas por categorias (por exemplo, camisetas, calças, vestidos, etc.).     |   ALTA   | 
+|RF-006| Os usuários devem poder editar as informações das roupas cadastradas                                       |   ALTA   | 
+|RF-007| Os usuários também devem poder remover as roupas cadastradas.                                              |   ALTA   |
+|RF-008| Os usuários devem conseguir realizar o cadastro de nova conta.                                             |   ALTA   |
+|RF-009| Os usuários devem conseguir visualizar seu perfil.                                                         |   ALTA   |
 
 ### Requisitos não Funcionais
 
@@ -88,6 +96,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-003| A interface do usuário deve ser intuitiva e de fácil compreensão, permitindo que os usuários interajam com o aplicativo sem dificuldades.                            |   ALTA    |
+|RNF-004| Dados pessoais dos usuários, como informações de login e detalhes do guarda-roupa, devem ser protegidos por meio de criptografia e práticas seguras de armazenamento.|   ALTA    |
+|RNF-005| O código-fonte do aplicativo deve ser organizado de forma modular e reutilizável para facilitar a manutenção e futuras atualizações.                                 |   MEDIA   |
+
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
