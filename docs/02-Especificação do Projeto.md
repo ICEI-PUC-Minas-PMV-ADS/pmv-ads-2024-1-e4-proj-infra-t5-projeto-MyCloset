@@ -145,12 +145,9 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 > - [Diagrams](https://app.diagrams.net/)
 
 # Matriz de Rastreabilidade
+A matriz abaixo contempla todos os elementos relevantes e suas conexões que fazem parte do aplicativo My Closet:
 
-A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo a rastreabilidade entre os requisitos e os objetivos de negócio. 
-
-A matriz deve contemplar todos os elementos relevantes que fazem parte do sistema, conforme a figura meramente ilustrativa apresentada a seguir.
-
-![Exemplo de matriz de rastreabilidade](img/02-matriz-rastreabilidade.png)
+<img width="1107" alt="Matriz de Rastreabilidade de RequisitosMyCloset" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-pmv-ads-2024-1-e4-proj-infra-t5-grupo05/assets/161225132/80a79e7b-e791-4fda-a127-b9963303d3c2">
 
 > **Links Úteis**:
 > - [Artigo Engenharia de Software 13 - Rastreabilidade](https://www.devmedia.com.br/artigo-engenharia-de-software-13-rastreabilidade/12822/)
