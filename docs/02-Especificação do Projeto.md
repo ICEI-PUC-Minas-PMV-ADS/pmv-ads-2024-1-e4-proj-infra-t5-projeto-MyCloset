@@ -133,7 +133,8 @@ Enumere as restrições à sua solução. Lembre-se de que as restrições geral
 
 ## Diagrama de Casos de Uso
 
-![Diagrama decasos de Uso](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-pmv-ads-2024-1-e4-proj-infra-t5-grupo05/assets/161225132/8885dafa-95eb-4976-b540-dcddc9c6f78c)
+![Diagrama de caso de uso](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-pmv-ads-2024-1-e4-proj-infra-t5-grupo05/assets/161225132/2a2e9af9-cbda-42e1-a8bd-1d36d5f85e88)
+
 
 
 # Matriz de Rastreabilidade
