@@ -8,7 +8,7 @@
 
 `Eixo 3`
 
-Este projeto trata-se do desenvolvimento de uma aplicação funcional, com o intuito de facilitar o controle de peças disponíveis em seu guarda roupa.
+Este projeto trata-se do desenvolvimento de uma aplicação funcional, com o intuito de dar uma plataforma ao cliente onde ele possa visualizar looks como também ter consultorias de imagem.
 
 ## Integrantes
 
