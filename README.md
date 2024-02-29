@@ -6,9 +6,9 @@
 
 `Projeto: Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio`
 
-`Eixo 3`
+`Eixo 4`
 
-Este projeto trata-se do desenvolvimento de uma aplicação funcional, com o intuito de dar uma plataforma ao cliente onde ele possa visualizar looks como também ter consultorias de imagem.
+Este projeto trata-se do desenvolvimento de uma aplicação funcional, com o intuito de dar uma plataforma ao cliente onde ele possa visualizar suas peças de roupas de forma mais organizada e eficiente.
 
 ## Integrantes
 
