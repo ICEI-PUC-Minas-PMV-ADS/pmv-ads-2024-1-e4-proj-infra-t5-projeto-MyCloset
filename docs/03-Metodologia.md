@@ -16,7 +16,7 @@ Nota: Vide documento modelo do estudo de caso "Portal de Notícias" e defina tam
 |Documentos do projeto| Google Drive|
 |Projeto de Interface e Wireframes| Figma |
 |Matriz de Rastreabilidade de Requisitos| Microsoft Exel | 
-|Gerenciamento de Tempo| GitHub |
+|Gerenciamento de Tempo| [Notion](https://www.notion.so/Gerenciamento-de-Tempo-2a83893b2a764d50ba3c87ca3c7f62c6?pvs=4) |
 
 ## Controle de Versão
 
