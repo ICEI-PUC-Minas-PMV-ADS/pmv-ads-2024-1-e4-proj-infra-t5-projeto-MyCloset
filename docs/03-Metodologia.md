@@ -10,13 +10,13 @@ Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Defini�
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito deverá ser apresentada em uma tabela que especifica que detalha Ambiente, Plataforma e Link de Acesso. 
 Nota: Vide documento modelo do estudo de caso "Portal de Notícias" e defina também os ambientes e frameworks que serão utilizados no desenvolvimento de aplicações móveis.
 
-|Ambiente| Plataforma  | Link de Acesso|
-|--------|-------------|---------------|
-|Repositório de código fonte| GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-pmv-ads-2024-1-e4-proj-infra-t5-grupo05 | 
-|Documentos do projeto| Google Drive| X |
-|Projeto de Interface e Wireframes| Figma | X |
-|Matriz de Rastreabilidade de Requisitos| Microsoft Exel | X |
-|Gerenciamento de Tempo| GitHub | X |
+|Ambiente| Plataforma  |
+|--------|-------------|
+|Repositório de código fonte| [GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-pmv-ads-2024-1-e4-proj-infra-t5-grupo05)| 
+|Documentos do projeto| Google Drive|
+|Projeto de Interface e Wireframes| Figma |
+|Matriz de Rastreabilidade de Requisitos| Microsoft Exel | 
+|Gerenciamento de Tempo| GitHub |
 
 ## Controle de Versão
 
