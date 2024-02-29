@@ -1,23 +1,28 @@
-# TÍTULO DO PROJETO
+# My Closet Online
 
-`CURSO`
+![myclosetapp](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb-atualizado/assets/104511336/01dd6bbd-66b9-414b-84f1-6ca79bf65f83)
 
-`DISCIPLINA`
 
-`SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+`Tecnologia em Análise e Desenvolvimento de Sistema`
+
+`Projeto: Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio`
+
+`Eixo 3`
+
+Este projeto trata-se do desenvolvimento de uma aplicação funcional, com o intuito de facilitar o controle de peças disponíveis em seu guarda roupa.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Andressa Júlia Guedes Ribeiro
+* Sanderlei Cabral
+* Maria Júlia Silva Medeiros
+* Matheus Da Silva Câmara
+* Giovanna Maria Elias Coura
 
 ## Orientador
 
-* Nome completo do professor 1
+* Pedro Felipe Alves de Oliveira 
 
 ## Instruções de utilização
 
