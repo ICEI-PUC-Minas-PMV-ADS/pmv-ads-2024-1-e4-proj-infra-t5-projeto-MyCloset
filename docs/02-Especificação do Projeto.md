@@ -2,146 +2,176 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+A definição dos problemas e necessidades detectados para idealizar esse projeto, advém principalmente de trabalhos de imersão feitos pelos integrantes do grupo. Foram feitas pesquisas através de artigos, reportagens, vídeos e conversas com pessoas que se encaixam no perfil do público-alvo;
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+Personas - As personas levantadas durante o processo de entendimento do problema são apresentadas no quadro a seguir.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+<h3 align="center"> Persona 1 </h3>
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+| **Aspectos**        | **Detalhes**                                       | **Observações**                                    |
+|---------------------|----------------------------------------------------|----------------------------------------------------|
+| **Nome**            | Joana                                              |                                                    |
+| **Estado Civil**    | Solteira                                           |                                                    |
+| **Idade**           | 22 anos                                            |                                                    |
+| **Ocupação**        | Mestrado na área de Arquitetura                    |                                                    |
+| **Salário**         | R$ 2.500,00                                        |                                                    |
+| **Características** | Sonhadora, Calma, Dedicada, Adora animais de estimação e a natureza| Vegana, Feminista, Minimalista, Engajada em causas sociais |
+| **Aplicativos**     | Corte de Tampa, Tela, Instagram                    | Twitter, Pinterest                                 |
+| **Hobbies**         | Fazer trilha, Ler                                  | Ouvir música, Cozinhar                             |
+| **Frustrações**     | Consumismo exacerbado, Descaso com a natureza      | Capitalismo Desenfreado, "Não consigo fazer mais pelo planeta" |
+| **Valores/Crenças** | Preservação ambiental, Consumir o necessário       | Acredita que menos é mais                          |
+| **Motivações**      | Ser uma pessoa melhor, Ajudar pessoas e o planeta  | Criar projetos de moradias sustentáveis            |
+
+
+
+<h3 align="center"> Persona 2 </h3>
+
+
+| **Aspectos**        | **Detalhes**                                       | **Observações**                                    |
+|---------------------|----------------------------------------------------|----------------------------------------------------|
+| **Nome**            | Laura                                              |                                                    |
+| **Idade**           | 29 anos                                            |                                                    |
+| **Ocupação**        | Médica                                             |                                                    |
+| **Salário**         | R$ 12.000,00                                       |                                                    |
+| **Estado Civil**    | Noiva                                              |                                                    |
+| **Características** | Extrovertida, Determinada, Independente            | Consumista (quer melhorar), Focada na carreira, Não quer ter filhos |
+| **Aplicativos**     | Instagram, Twitter, Linkedin                       | Pinterest, Mojo                                    |
+| **Hobbies**         | Ler, Sair com as amigas, Conhecer bons restaurantes| Comprar roupas, bolsas e sapatos, Viajar           |
+| **Valores/Crenças** | É leal a si mesma e aos seus objetivos             | Quem não vai à luta perde a batalha, Acredita que o sucesso depende do trabalho |
+| **Frustrações**     | É muito perfeccionista                             | Não abriu seu próprio consultório, Não fez especialização internacional, Não ser menos consumista|
+| **Motivações**      | Ser uma profissional bem sucedida, Tentar ser menos consumista| Ajudar pacientes, Comprar casa e casar  |
+
+
+
+<h3 align="center"> Persona 3 </h3>
+
+
+
+| **Aspectos**        | **Detalhes**                                       | **Observações**                                    |
+|---------------------|----------------------------------------------------|----------------------------------------------------|
+| **Nome**            | Clara                                              |                                                    |
+| **Idade**           | 32 anos                                            |                                                    |
+| **Ocupação**        | Empresária (consultoria de imagem)                 |                                                    |
+| **Salário**         | Entre R$ 20.000,00 e R$ 30.000,00                  |                                                    |
+| **Estado Civil**    | Casada com um filho                                |                                                    |
+| **Características** | Trabalha muito, Determinada, Apaixonada pela família| Dedicada, Detalhista                              |
+| **Aplicativos**     | Revistas de moda, Instagram                        | Pinterest                                          |
+| **Hobbies**         | Viajar, Correr, Cozinhar, Ler                      | Sair para teatros e museus, Ficar com a família    |
+| **Valores/Crenças** | Vestir-se para o cargo desejado                    | Trabalhar é servir, Esforço pela família           |
+|                     | A família é a base do sucesso                      | A aparência importa                                |
+| **Frustrações**     | Não pode aumentar a família                        | Morar longe dos pais, Dificuldades de empreender   |
+| **Motivações**      | Ter uma família feliz e unida,  Ser bem sucedida   | Ajudar mulheres a se sentirem mais bonitas e poderosas e Comprar uma casa no campo|
+
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários.
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+| EU COMO (Persona) | QUERO/PRECISO (Funcionalidade) | PARA (Motivo/Valor) |
+|-------------------|--------------------------------|---------------------|
+| Joana             | Fazer uso das funcionalidades do app para catalogar todas as minhas peças de roupas, sapatos e acessórios | Criar mais combinações de looks, mesmo com poucas peças |
+| Joana             | Fazer uso das funcionalidades do app para ter um estilo próprio e autêntico, mas sem cair na armadilha do consumo desenfreado | De forma criativa e consciente, fugir das amarras do consumismo. Promover um mundo mais equilibrado no âmbito ambiental e pessoal |
+| Joana             | Fazer uso das funcionalidades do app para diminuir meu consumo de roupas desnecessárias | Promover um estilo de vida mais minimalista e sustentável |
+| Laura             | Fazer uso das funcionalidades do app para adotar uma mentalidade minimalista em relação à moda com foco nas roupas que realmente precisam, coibindo compras impulsivas | Reduzir o consumo de peças de roupas novas e investir em peças de qualidade, com maior durabilidade e especificidades |
+| Laura             | Fazer uso das funcionalidades do app para catalogar peças velhas, gastas | Reparar itens danificados e doar a terceiros |
+| Laura             | Fazer uso das funcionalidades do app para rastrear peças e acessórios em desuso | Trocar e assim adquirir peças multifuncionais e ecológicas |
+| Clara             | Fazer uso das funcionalidades do app com mais praticidade, agilidade e foco na vestimenta da ocasião | Assessoria visual na montagem de looks diários |
+| Clara             | Fazer uso das funcionalidades do app priorizando o consumo e novas aquisições de peças mais resistentes | Evitar o consumo de produtos sintéticos e de difícil resistência |
+| Clara             | Fazer uso das funcionalidades do app e organizar meu armário por segmento de uso (descolado, empresarial, moda praia, inverno, etc) | Evitar compras de itens que já possuo, bem como itens que não combinam com o que já tenho |
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Modelagem do Processo de Negócio 
 
 ### Análise da Situação Atual
 
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
+#### Problemas Existentes:
+- Gestão ineficiente de roupas: muitas pessoas têm roupas em excesso e não sabem como organizá-las ou o que possuem.
+- Desperdício: roupas não usadas ocupam espaço e muitas vezes são descartadas, contribuindo para o desperdício.
+
+#### Modelo Atual:
+Atualmente, as pessoas utilizam métodos tradicionais, como armários físicos e gavetas, para gerenciar suas roupas. Algumas usam planilhas ou aplicativos básicos de lista, mas essas soluções não oferecem funcionalidades como troca, venda ou doação de itens.
 
 ### Descrição Geral da Proposta
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
+#### Limites:
+O aplicativo focará inicialmente em roupas e acessórios, excluindo outros tipos de itens como eletrodomésticos.
 
-### Processo 1 – NOME DO PROCESSO
+#### Estratégias e Objetivos:
+- Oferecer uma plataforma intuitiva para gerenciar itens de vestuário.
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
-
-![Processo 1](img/02-bpmn-proc1.png)
-
-### Processo 2 – NOME DO PROCESSO
-
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
-
-![Processo 2](img/02-bpmn-proc2.png)
+#### Oportunidades de Melhorias:
+- Automatizar o processo de categorização.
 
 ## Indicadores de Desempenho
 
-Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
-
-Usar o seguinte modelo: 
-
-![Indicadores de Desempenho](img/02-indic-desemp.png)
-Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori. 
+**Indicador**|**Objetivo**|**Descrição**|**Fonte e Dados**|**Perspectiva**
+:-----:|:-----:|:-----:|:-----:|:-----:
+Taxa de Utilização do Closet Online|Estimular a inserção de peças no closet online|Percentual de peças de roupas cadastradas|Banco de Dados de Peças|Interna
+Taxa de Uso da Funcionalidade de Montagem de Looks|Avaliar a utilidade da funcionalidade|Percentual de usuários que utilizaram a funcionalidade|Registro de Atividades|Cliente
+Taxa de Sucesso em Adicionar/Excluir Peças|Verificar a eficiência das ações|Percentual de ações de adição/exclusão de peças bem-sucedidas|Registro de Atividades|Interna
+Taxa de Sucesso de Login|Monitorar a eficiência de login|Percentual de logins bem-sucedidos|Registro de Atividades|Interna
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. Para determinar a prioridade de requisitos, aplicar uma técnica de priorização de requisitos e detalhar como a técnica foi aplicada.
+A fase inicial do desenvolvimento de um software passa pela definição e elaboração de seus requisitos funcionais, que apresentam as possibilidades de interação entre o usuário e o programa, bem como a definição de seus requisitos não funcionais que são aqueles que norteiam os aspectos que o sistema deve apresentar de qualidade e construção. Ambos serão apresentados a seguir. 
 
 ### Requisitos Funcionais
 
+A Tabela a seguir apresenta os requisitos funcionais do projeto, bem como suas prioridades de desenvolvimento e entrega.
 
 |ID    | Descrição do Requisito                                                                                     |Prioridade|
 |------|------------------------------------------------------------------------------------------------------------|----------|
-|RF-001| O sistema deve permitir que o usuário cadastre peças de roupas.                                            |   ALTA   | 
-|RF-002| Os usuários devem poder cadastrar informações sobre suas roupas, como sua categoria.                       |   MÉDIA  |
+|RF-001| Permitir que o usuário cadastre peças de roupas.                                                           |   ALTA   | 
+|RF-002| Os usuários devem poder cadastrar informações sobre suas roupas, como sua categoria.                    |   MÉDIA  |
 |RF-003| Os usuários podem adicionar uma foto da roupa ao cadastrá-la.                                              |   ALTA   | 
 |RF-004| O cadastro de roupas deve ser intuitivo e fácil de completar.                                              |   MÉDIA  |
-|RF-005| Os usuários podem filtrar suas roupas por categorias (por exemplo, camisetas, calças, vestidos, etc.).     |   ALTA   | 
-|RF-006| Os usuários devem poder editar as informações das roupas cadastradas                                       |   ALTA   | 
-|RF-007| Os usuários também devem poder remover as roupas cadastradas.                                              |   ALTA   |
-|RF-008| Os usuários devem conseguir realizar o cadastro de nova conta.                                             |   ALTA   |
-|RF-009| Os usuários devem conseguir visualizar seu perfil.                                                         |   ALTA   |
+|RF-005| Os usuários devem poder criar looks combinando diferentes peças de roupa do seu guarda-roupa.              |   ALTA   | 
+|RF-006| Os usuários podem filtrar suas roupas por categorias (por exemplo, camisetas, calças, vestidos, etc.).     |   ALTA   | 
+|RF-007| Os usuários devem poder editar as informações das roupas cadastradas                                       |   ALTA   | 
+|RF-008| Os usuários também devem poder remover roupas do guarda-roupa.                                             |   ALTA   |
+|RF-009| Os usuários devem conseguir realizar o cadastro de nova conta.                                             |   ALTA   |
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+A tabela a seguir apresenta então os requisitos não funcionais do projeto, apresentando também as prioridades quanto ao desenvolvimento e entrega.
+
+|ID     | Descrição do Requisito                                                                                                                                               |Prioridade |
+|-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
+|RNF-001| O sistema deve ser desenvolvido na linguagem React Native.                                                                                                           |   MÉDIA   | 
+|RNF-002| O aplicativo deve responder de forma rápida e suave aos comandos do usuário, minimizando atrasos e travamentos.                                                      |   MEDIA   | 
 |RNF-003| A interface do usuário deve ser intuitiva e de fácil compreensão, permitindo que os usuários interajam com o aplicativo sem dificuldades.                            |   ALTA    |
 |RNF-004| Dados pessoais dos usuários, como informações de login e detalhes do guarda-roupa, devem ser protegidos por meio de criptografia e práticas seguras de armazenamento.|   ALTA    |
 |RNF-005| O código-fonte do aplicativo deve ser organizado de forma modular e reutilizável para facilitar a manutenção e futuras atualizações.                                 |   MEDIA   |
 
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-
 ## Restrições
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|ID   | Restrição                                                                 |
+|-----|---------------------------------------------------------------------------|
+|RE-01| O projeto deverá ser entregue até a data limite.                          |
+|RE-02| O aplicativo se restringe à linguagem c# back-end.                        |
+|RE-03| A equipe do projeto não poderá subcontratar o desenvolvimento do projeto. |
 
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
+Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata. (Vinicius ficou com essa parte, porém não fez).
 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 ## Diagrama de Casos de Uso
 
-![Diagrama de caso de uso](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-pmv-ads-2024-1-e4-proj-infra-t5-grupo05/assets/161225132/2a2e9af9-cbda-42e1-a8bd-1d36d5f85e88)
-
+![DIAGRAMA CLOSET](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/assets/104511336/0bb37cc1-6541-46e3-85df-e2bef81020c9)
 
 
 # Matriz de Rastreabilidade
+
+A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo a rastreabilidade entre os requisitos e os objetivos de negócio. 
+
 A matriz abaixo contempla todos os elementos relevantes e suas conexões que fazem parte do aplicativo My Closet:
 
-<img width="1107" alt="Matriz de Rastreabilidade de RequisitosMyCloset" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-pmv-ads-2024-1-e4-proj-infra-t5-grupo05/assets/161225132/80a79e7b-e791-4fda-a127-b9963303d3c2">
-
+![Matriz Rastreabilidade](img/matriz_rastreabilidade.jpg)
 
 # Gerenciamento de Projeto
 
@@ -149,15 +179,16 @@ De acordo com o PMBoK v6 as dez áreas que constituem os pilares para gerenciar 
 
 ## Gerenciamento de Tempo
 
-<img width="1703" alt="Gerenciamento de Tempo" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-pmv-ads-2024-1-e4-proj-infra-t5-grupo05/assets/161225132/d6e91201-9aec-4252-91bf-b3ef41b384b7">
+O gerenciamento de tempo em projetos de TI é essencial para manter o projeto no caminho certo, assegurar a utilização eficaz de recursos e evitar surpresas desagradáveis ao longo do processo.
 
+![2dff26c6-d261-4243-9be4-54bef77424e7 (1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/assets/104511336/b0a2cb03-6331-4f62-8b5f-6a7e3aaff60a)
 
 ## Gerenciamento de Equipe
 
-![04f51126-8cc4-482f-8d13-e7a921ab19ad](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/assets/104511336/eda630a2-6683-4064-9b1a-1223922d1eab)
+O gerenciamento de equipe em projetos de TI é essencial para garantir a execução bem-sucedida do projeto, maximizando a produtividade, a qualidade e a colaboração entre os membros da equipe.
+
+
 
 ## Gestão de Orçamento
 
-O processo de determinar o orçamento do projeto é uma tarefa que depende, além dos produtos (saídas) dos processos anteriores do gerenciamento de custos, também de produtos oferecidos por outros processos de gerenciamento, como o escopo e o tempo.
 
-![Orçamento](img/02-orcamento.png)
