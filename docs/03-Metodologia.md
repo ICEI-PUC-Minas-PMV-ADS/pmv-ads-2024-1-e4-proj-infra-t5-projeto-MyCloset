@@ -1,22 +1,15 @@
 
 # Metodologia
-
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
-
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
-
+  Para o desenvolvimento das etapas do projeto foram utilizadas as seguintes ferramentas: O hambiente de trabalho selecionado foi o Microsoft teams, a fim de serem realizadas as reuniões de checkup e trabalharmos juntos em atividades; Visual Studio 2019 para a estrutura e gestão do código fonte; GitHub como repositório e organizador de sprints e tarefas e Git para controle de versões; Figma para realizar o design do layout do front-end; e Lucidchart e Astah para a confecção do diagrama de caso de uso.
+  
 ## Relação de Ambientes de Trabalho
-
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito deverá ser apresentada em uma tabela que especifica que detalha Ambiente, Plataforma e Link de Acesso. 
-Nota: Vide documento modelo do estudo de caso "Portal de Notícias" e defina também os ambientes e frameworks que serão utilizados no desenvolvimento de aplicações móveis.
-
-|Ambiente| Plataforma  |
-|--------|-------------|
-|Repositório de código fonte| [GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-pmv-ads-2024-1-e4-proj-infra-t5-grupo05)| 
-|Documentos do projeto| Google Drive|
-|Projeto de Interface e Wireframes| Figma |
-|Matriz de Rastreabilidade de Requisitos| Microsoft Exel | 
-|Gerenciamento de Tempo| [Notion](https://www.notion.so/Gerenciamento-de-Tempo-2a83893b2a764d50ba3c87ca3c7f62c6?pvs=4) |
+ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
+|Ambiente| Plataforma  | Link de Acesso|
+|------|--------------------|----|
+|Repositório de código fonte|Github | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-pmv-ads-2024-1-e4-proj-infra-t5-grupo05| 
+|Documentos do projeto| Google Drive| X |
+|Projeto de Interface e Wireframes| Figma | X |
+|Gerenciamento do Projeto| Trello | X |
 
 ## Controle de Versão
 
@@ -41,55 +34,82 @@ etiquetas:
 
 Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
 
-> **Links Úteis**:
-> - [Microfundamento: Gerência de Configuração](https://pucminas.instructure.com/courses/87878/)
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
-
 ## Gerenciamento de Projeto
+A equipe usa metologias ágeis para auxiliar no gerenciamento, o Scrum foi o método escolhido como base na execução do processo de desenvolvimento deste projeto.
+
+A ferrramenta utilizada no Projeto para auxiliar na organização, gestão do tempo e distribuição das tarefas é o GitHub, através da criação de um Dashboard dentro do mesmo. Esse board será constantemente atualizado de acordo com a desenvolvimento do projeto.
+
+Segue abaixo um resumo sobre a disposição das listas:
+
+- **Backlog (A fazer):** abriga todas as tarefas a serem executdas para que o desenvolvimento do porojeto aconteça, representa o Product Backlog. Todas as atividades identificadas no decorrrer do projeto também devem ser incorporadas a esta lista.
+
+- **Em andamento:** nesta lista estão as tarefas a serem executadas durante o Sprint corrente e representa o Sprint Backlog. Aqui fica definido o que cada integrante fará durante a etapa.
+
+- **Doing (To do):** quando uma tarefa tiver sido iniciada, ela é movida para cá.
+
+- **Revisão:** as tarefas concluídas devem ser movidas para essa lista, onde passam por uma revisão final antes de serem concluídas.
+
+- **Done (Concluída):** nesta lsta serão alocadas as tarefas que passarem pelos teste e controle de qualidade e estão aptas a serem entregues ao usuário/cliente. Não há mais edições ou revisões necessárias, eles está agendado e pronto para a ação.
+
+- **Entregue:** quando as tarefas forem entregues, as mesmas serão alocadas nessa lista.
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
+A equipe foi organizada, conforme abaixo, da seguinte maneira:
 
-Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
-- Scrum Master: Felipe Domingos;
-- Product Owner: Rommel Carneiro;
-- Equipe de Desenvolvimento: Pedro Penna, Pedro Ivo, Rodrigo Richard;
-- Equipe de Design: Simone Nogueira.
+- **Scrum Master:** Andressa Guedes
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-> - [Os papéis do Scrum e a verdade sobre cargos nessa técnica](https://www.atlassian.com/br/agile/scrum/roles)
+- **Product Owner:** Andressa Guedes
+
+  **Equipe de Desenvolvimento:**
+  * Andressa Guedes
+  * Felipe Viana
+  * Sanderlei Cabral
+  * Matheus Da Silva Câmara
+  * Maria Júlia Silva Medeiros
+                                 
+  **Equipe de Design:**
+  * Felipe Viana
+  * Sanderlei Cabral
+  * Giovanna Maria Elias Coura
+
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo deverá fazer uso do recurso de gerenciamento de projeto oferecido pelo GitHub, que permite acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
-> **Links Úteis**:
-> - [Planejamento e Gestáo Ágil de Projetos](https://pucminas.instructure.com/courses/87878/pages/unidade-2-tema-2-utilizacao-de-ferramentas-para-controle-de-versoes-de-software)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards)
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+Conforme especificado anteriormente, uma vez definido o Scrum como metodologia de desenvolvimento do software, segue abaixo os detalhes sobre a implementação deste no projeto.
+
+- A equipe Scrum é composta pela Scrum Master e Product Owner Andressa Guedes, e pela equipe de desenvolvimento e design, composta pelos seguintes membros: Felipe Viana, Luana Scardua e Sanderlei Cabral.
+
+- A Scrum Master será responsável por garantir que a equipe siga as práticas do Scrum e remova os impedimentos que possam surgir. Uma vez que também está no papel  de Product Owner, Andressa Guedes será responsável por priorizar o backlog do produto, ou seja, a lista de funcionalidades baseadas nos requisitos do projeto, que por sua vez foram apurados tendo como base as necessidades do cliente.
+
+- A equipe de desenvolvimento e design será responsáveis por entregar o trabalho tendo como base o tempo definido no Sprint. Sprint é o período fixo que a equipe scrum possuirá para entregar um conjunto de funcionalidades pré-estabelecidos no Dashboard.
+
+- Durante o projeto reuniões serão feitas durante a semana visando discutir o progresso do trabalho, cada qual com uma temática diferente, conforme segue abaixo.
+
+- **Reunião de acompanhamento:** cada membro da equipe compartilha o que fez desde o último encontro, o que planeja fazer até a próxima reunião e eventuais impedimentos que possam estar travando o progresso do projeto.
+  
+- **Reunião para revisão do sprint:** nesse encontro a equipe Scrum apresenta o trabalho concluído durante o sprint. O Product Owner e outras partes interessadas podem fornecer feedback sobre o trabalho concluído e revisar o backlog do produto.
+  
+- **Reunião de retrospectiva do sprint:** a retrospectiva do sprint é uma reunião em que a equipe Scrum revisará o sprint anterior para identificar áreas de melhoria. A equipe poderá discutir o que funcionou bem, o que não funcionou tão bem e quais mudanças podem ser feitas para melhorar o processo no futuro.
+
+Esses são alguns dos principais detalhes da utilização do Scrum no projeto. É importante lembrar que o Scrum é uma metodologia flexível sendo assim adaptações podem ser feitas visando atender às necessidades específicas da equipe e/ou do projeto.
+
 
 ### Ferramentas
 
-As ferramentas empregadas no projeto são:
+O projeto está sendo desenvolvido com o auxílio das seguintes ferramentas, conforme apresentado à baixo:
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
+- **Repositório de Código Fonte:** [Github](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-pmv-ads-2024-1-e4-proj-infra-t5-grupo05)
+- **Gerenciamento do Projeto:** GitHub
+- **Ferramenta de Comunicação:** Microsoft Teams
+- **Editor de Código:** Visual Studio v.2019
+- **Ferramentas de desenho de tela (_wireframing_), diagramas e fluxogramas:** .Figma .LucidChart
 
-O editor de código foi escolhido porque ele possui uma integração com o sistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.
+A ferramente utilizada como repositório de códio fonte, foi o GitHub. Sua escolha foi feita pois além de funcionar como um repositório, também nos fornece mecanismos para gereciar o projeto em sí, mantendo toda a equipe informada e sincronizada com relação às tarefas baseadas na metodologia Scrum. 
 
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
+O editor de código, Visual Studio v. 2019, foi escolhido porque possui uma melhor integração com o sistema de versão. 
+
+A ferramenta de comunicação utilizada, Microsoft Teams, além de suprir as necessidade da equipe com relação a chamadas de video, chat etc é bem intuitiva e facilita bastante o trabalho.
+
+Por fim, para criarmos Diagramas e Wireframes utilizamos o LucidChart e o Figma, pois entendemos que estes melhor traduzem as nossas necessidades e do projeto também.
+
