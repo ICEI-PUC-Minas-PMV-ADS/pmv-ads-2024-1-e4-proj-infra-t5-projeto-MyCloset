@@ -171,6 +171,9 @@ A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualizaç
 
 A matriz abaixo contempla todos os elementos relevantes e suas conexões que fazem parte do aplicativo My Closet:
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-pmv-ads-2024-1-e4-proj-infra-t5-grupo05/assets/104511336/24afe50f-9449-436d-8565-d7c69fa670db)
+
+
 
 
 # Gerenciamento de Projeto
