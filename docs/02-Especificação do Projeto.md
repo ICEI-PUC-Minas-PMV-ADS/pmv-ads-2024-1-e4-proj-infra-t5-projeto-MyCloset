@@ -185,10 +185,23 @@ O gerenciamento de tempo em projetos de TI é essencial para manter o projeto no
 
 ## Gerenciamento de Equipe
 
-O gerenciamento de equipe em projetos de TI é essencial para garantir a execução bem-sucedida do projeto, maximizando a produtividade, a qualidade e a colaboração entre os membros da equipe.
+A equipe foi organizada, conforme abaixo, da seguinte maneira:
 
+- **Scrum Master:** Andressa Guedes
 
+- **Product Owner:** Andressa Guedes
+
+  **Equipe de Desenvolvimento:**
+  * Andressa Guedes
+  * Sanderlei Cabral
+  * Matheus Da Silva Câmara
+  * Maria Júlia Silva Medeiros
 
 ## Gestão de Orçamento
+
+O processo de determinar o orçamento do projeto é uma tarefa que depende, além dos produtos (saídas) dos processos anteriores do gerenciamento de custos, também de produtos oferecidos por outros processos de gerenciamento, como o escopo e o tempo.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-pmv-ads-2024-1-e4-proj-infra-t5-grupo05/assets/104511336/a37a9fef-684e-4c36-9d1d-4fd7bc26d8fd)
+
 
 
