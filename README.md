@@ -1,7 +1,8 @@
 # My Closet Online
 
+![Story app delivery farmacia moderno branco e azul](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-pmv-ads-2024-1-e4-proj-infra-t5-grupo05/assets/104511336/f20c55cd-fd9e-4be0-b831-55bfc42a48a3)
 
-![myclosetapp](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb-atualizado/assets/104511336/01dd6bbd-66b9-414b-84f1-6ca79bf65f83)
+
 
 `Tecnologia em Análise e Desenvolvimento de Sistemas`
 
