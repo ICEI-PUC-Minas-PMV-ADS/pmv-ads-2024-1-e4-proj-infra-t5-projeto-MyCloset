@@ -28,10 +28,6 @@
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
-
  O objetivo geral deste trabalho é a criação de um app mobile, capaz de catalogar, setorizar, de uma forma simples e de fácil visibilidade o guarda-roupas do usuário, fazendo com que dessa forma ele possa ter com celeridade todas as suas peças de roupas, sapatos, acessórios, evitando o desperdício de tempo, o consumo desnecessário e a falta de criatividade ao se arrumar. 
 
  Como objetivos específicos, podemos destacar:
@@ -44,17 +40,12 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Um closet organizado é um incentivo para para saber oque se tem, e o que é realmente necessario comprar. Para evitar a sensação de ter muita coisa e ao mesmo tempo nada para se vestir, é simples, organizar de forma inteligente este closet. Ter todas as peças visiveis possibilita a ganha de tempo, a economia de dinheiro e o consumo consciente. Com a organização lembraremos de peças esquecidas, sera mais facil a combinação e criar novas possibilidades de uso; E sem se preocupar se tem ou nao um espaço fisico grande para isso, pois um closet online não se tem essa preocupação.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+A aplicação busca ajudar a diminuir o consumo desnecessário da indústria da moda, com o intuito de reduzir o “lixo textil”. O perfil no qual desejamos focar são pessoas que possuem dificuldade em se arrumar, que compram sem necessidade e pessoas que possuem muitas peças e não se recordam do que possui por ter um guarda-roupas desorganizado.
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
