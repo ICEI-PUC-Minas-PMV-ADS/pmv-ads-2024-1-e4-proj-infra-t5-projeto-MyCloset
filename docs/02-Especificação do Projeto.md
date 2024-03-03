@@ -184,7 +184,49 @@ De acordo com o PMBoK v6 as dez áreas que constituem os pilares para gerenciar 
 
 O gerenciamento de tempo em projetos de TI é essencial para manter o projeto no caminho certo, assegurar a utilização eficaz de recursos e evitar surpresas desagradáveis ao longo do processo.
 
-![2dff26c6-d261-4243-9be4-54bef77424e7 (1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/assets/104511336/b0a2cb03-6331-4f62-8b5f-6a7e3aaff60a)
+```mermaid
+gantt
+    title Gerenciamento de Tempo
+    todayMarker off
+    dateFormat  YYYY-MMM-DD
+    axisFormat %d/%b/%y
+
+    section 1ª Etapa
+    Encontro inicial :done, t1, 2024-02-19, 1d
+    Definição do tema     : done, t2, after t1, 3d
+    Contextualização do Projeto   : done, after t2, 10d
+    Especificação do Projeto   : done, after t2, 10d
+    Metodologia do Projeto: done, after t2, 10d
+    Arquitetura da solução: done, after t2, 10d
+
+    section 2ª Etapa
+    Modelo de dados      :a1, 2024-03-04  , 3d
+    Implementação do NoSQL    : 5d
+    Programação de Funcionalidades API : 20d 
+    Testes unitários : 4d
+    Atualizar documentação : 2d
+    Backend API REST  :milestone, 2024-04-07, 0d 
+
+    section 3ª Etapa
+    Projeto de interface Web : 2024-04-08  , 7d
+    Programação de Funcionalidades Frontend : 14d 
+    Testes unitários : 4d
+    Atualizar documentação : 2d
+    Frontend Web  :milestone, 2024-05-05, 0d 
+
+    section 4ª Etapa
+    Projeto de interface Mobile : 2024-05-06  , 7d
+    Programação de Funcionalidades Frontend : 14d 
+    Testes unitários : 4d
+    Atualizar documentação : 2d
+    Frontend Mobile  :milestone, 2024-06-02, 0d 
+
+    section 5ª Etapa
+    Considerações finais  :2024-06-03  , 2d
+    Entrega da solução :6d
+    Apresentação :6d
+```
+
 
 ## Gerenciamento de Equipe
 
