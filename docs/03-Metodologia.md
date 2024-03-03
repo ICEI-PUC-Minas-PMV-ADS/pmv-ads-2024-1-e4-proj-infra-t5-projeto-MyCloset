@@ -66,6 +66,7 @@ A equipe foi organizada, conforme abaixo, da seguinte maneira:
   * Sanderlei Cabral
   * Matheus Da Silva Câmara
   * Maria Júlia Silva Medeiros
+  * Giovanna Maria Elias Coura
                                  
   **Equipe de Design:**
   * Sanderlei Cabral
@@ -76,7 +77,7 @@ A equipe foi organizada, conforme abaixo, da seguinte maneira:
 
 Conforme especificado anteriormente, uma vez definido o Scrum como metodologia de desenvolvimento do software, segue abaixo os detalhes sobre a implementação deste no projeto.
 
-- A equipe Scrum é composta pela Scrum Master e Product Owner Andressa Guedes, e pela equipe de desenvolvimento e design, composta pelos seguintes membros: Felipe Viana, Luana Scardua e Sanderlei Cabral.
+- A equipe Scrum é composta pela Scrum Master e Product Owner Andressa Guedes, e pela equipe de desenvolvimento e design, composta pelos seguintes membros: Matheus Da Silva Câmara, Giovanna Maria, Maria Júlia e Sanderlei Cabral.
 
 - A Scrum Master será responsável por garantir que a equipe siga as práticas do Scrum e remova os impedimentos que possam surgir. Uma vez que também está no papel  de Product Owner, Andressa Guedes será responsável por priorizar o backlog do produto, ou seja, a lista de funcionalidades baseadas nos requisitos do projeto, que por sua vez foram apurados tendo como base as necessidades do cliente.
 
