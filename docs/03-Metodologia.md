@@ -63,13 +63,11 @@ A equipe foi organizada, conforme abaixo, da seguinte maneira:
 
   **Equipe de Desenvolvimento:**
   * Andressa Guedes
-  * Felipe Viana
   * Sanderlei Cabral
   * Matheus Da Silva Câmara
   * Maria Júlia Silva Medeiros
                                  
   **Equipe de Design:**
-  * Felipe Viana
   * Sanderlei Cabral
   * Giovanna Maria Elias Coura
 
