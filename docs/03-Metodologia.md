@@ -69,6 +69,7 @@ A equipe foi organizada, conforme abaixo, da seguinte maneira:
   * Giovanna Maria Elias Coura
                                  
   **Equipe de Design:**
+  * Andressa Guedes
   * Sanderlei Cabral
   * Giovanna Maria Elias Coura
 
