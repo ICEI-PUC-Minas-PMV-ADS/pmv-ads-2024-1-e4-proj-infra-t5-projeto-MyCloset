@@ -2,7 +2,18 @@
 
 <span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>
 
-Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
+Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação: 
+
+O diagrama abaixo destaca a importância da conexão entre front-end, back-end, aplicativos nativos, requisições URL, respostas JSON e APIs REST no desenvolvimento de aplicações modernas e interativas. 
+
+- O front-end é a parte da aplicação com a qual o usuário interage diretamente.
+- O back-end lida com a lógica de negócios, processamento de dados e interação com bancos de dados.
+- Aplicativos nativos são específicos para um sistema operacional e se comunicam com APIs REST.
+- As requisições URL são feitas pelo front-end ou aplicativos nativos para o back-end, seguindo diferentes métodos como GET, POST, PUT e DELETE.
+- As respostas do back-end são geralmente em formato JSON, fácil de ler e escrever.
+- As APIs REST permitem a comunicação padronizada entre os diferentes componentes da aplicação.
+
+Resumidamente, o front-end e os aplicativos nativos fazem requisições para uma API REST no back-end, que processa essas requisições e retorna respostas em JSON, permitindo a interação dos usuários com a aplicação e a manipulação de dados armazenados.
 
 ![Arquitetura da Solução](img/02-mob-arch.png)
 
