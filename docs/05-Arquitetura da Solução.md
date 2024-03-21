@@ -2,8 +2,6 @@
 
 <span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>
 
-Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação: 
-
 O diagrama abaixo destaca a importância da conexão entre front-end, back-end, aplicativos nativos, requisições URL, respostas JSON e APIs REST no desenvolvimento de aplicações modernas e interativas. 
 
 - O front-end é a parte da aplicação com a qual o usuário interage diretamente.
