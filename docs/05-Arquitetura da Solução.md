@@ -23,13 +23,16 @@ Um diagrama de entidade-relacionamento (DER) é uma representação visual que d
 
 O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
 
-![esquema relacional](esquema_relacional.png)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-pmv-ads-2024-1-e4-proj-infra-t5-grupo05/assets/161225132/40f1c7b4-1470-4a6f-8f2a-0b8cd91d3d67)
+
+
  
 ## Modelo Físico
 
 Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do banco de dados. Este arquivo deverá ser incluído dentro da pasta src\bd.
 
-![Modelo físico](tela_banco.sql.png)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-pmv-ads-2024-1-e4-proj-infra-t5-grupo05/assets/161225132/c7461d2f-57d9-4669-a469-3fda635e43aa)
+
 
 * scrip anexado (pasta src\bd) - pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/ src/ ativos
 /meucloset.sql
@@ -82,7 +85,8 @@ Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do ba
 
 ## Hospedagem
 
-![Hospedagem](hospedagem_lancamento.png)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-pmv-ads-2024-1-e4-proj-infra-t5-grupo05/assets/161225132/c8b6c80f-7c16-449d-ba04-887098589807)
+
 
 
 ## Qualidade de Software
