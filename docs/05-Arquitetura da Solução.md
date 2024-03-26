@@ -23,13 +23,13 @@ Um diagrama de entidade-relacionamento (DER) é uma representação visual que d
 
 O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
 
-![esquema relacional](esquema_relacional.jpg)
+![esquema relacional](esquema_relacional.jpeg)
  
 ## Modelo Físico
 
 Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do banco de dados. Este arquivo deverá ser incluído dentro da pasta src\bd.
 
-![Modelo físico](tela_banco.sql.jpg)
+![Modelo físico](tela_banco.sql.jpeg)
 
 * scrip anexado (pasta src\bd) - pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/ src/ ativos
 /meucloset.sql
@@ -82,7 +82,7 @@ Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do ba
 
 ## Hospedagem
 
-![Hospedagem](hospedagem_lancamento.jpg)
+![Hospedagem](hospedagem_lancamento.jpeg)
 
 
 ## Qualidade de Software
