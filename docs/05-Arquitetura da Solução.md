@@ -2,16 +2,7 @@
 
 <span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>
 
-O diagrama abaixo destaca a importância da conexão entre front-end, back-end, aplicativos nativos, requisições URL, respostas JSON e APIs REST no desenvolvimento de aplicações modernas e interativas. 
-
-- O front-end é a parte da aplicação com a qual o usuário interage diretamente.
-- O back-end lida com a lógica de negócios, processamento de dados e interação com bancos de dados.
-- Aplicativos nativos são específicos para um sistema operacional e se comunicam com APIs REST.
-- As requisições URL são feitas pelo front-end ou aplicativos nativos para o back-end, seguindo diferentes métodos como GET, POST, PUT e DELETE.
-- As respostas do back-end são geralmente em formato JSON, fácil de ler e escrever.
-- As APIs REST permitem a comunicação padronizada entre os diferentes componentes da aplicação.
-
-Resumidamente, o front-end e os aplicativos nativos fazem requisições para uma API REST no back-end, que processa essas requisições e retorna respostas em JSON, permitindo a interação dos usuários com a aplicação e a manipulação de dados armazenados.
+Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
 
 ![Arquitetura da Solução](img/02-mob-arch.png)
 
@@ -19,59 +10,139 @@ Resumidamente, o front-end e os aplicativos nativos fazem requisições para uma
 
 O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Classes”.
-
-> - [Diagramas de Classes - Documentação da IBM](https://www.ibm.com/docs/pt-br/rational-soft-arch/9.6.1?topic=diagrams-class)
-> - [O que é um diagrama de classe UML? | Lucidchart](https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-classe-uml)
+![diagrama de classes](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb-atualizado/blob/main/docs/img/Classe%20UML.jpeg)
 
 ## Modelo ER
 
-O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.]
+Um diagrama de entidade-relacionamento (DER) é uma representação visual que descreve a estrutura de um sistema de banco de dados ou as relações entre entidades (tabelas) dentro desse sistema. Ele usa símbolos gráficos para representar entidades, atributos e os relacionamentos entre entidades. O principal objetivo de um DER é modelar como os dados são organizados e inter-relacionados em um banco de dados, proporcionando uma visão clara das entidades envolvidas e suas conexões.  É amplamente utilizado em engenharia de software e gerenciamento de banco de dados para planejar, projetar e documentar sistemas de informações complexos.
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Modelo ER”.
+![diagrama de classes](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb-atualizado/blob/5411395d0a1aae135bd37173f64963b0154ada21/docs/img/Diagrama%20ER%20Mycloset%2011.jpeg)
 
-> - [Como fazer um diagrama entidade relacionamento | Lucidchart](https://www.lucidchart.com/pages/pt/como-fazer-um-diagrama-entidade-relacionamento)
 
 ## Esquema Relacional
 
 O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
+
+![esquema relacional](esquema_relacional.jpg)
  
-As referências abaixo irão auxiliá-lo na geração do artefato “Esquema Relacional”.
-
-> - [Criando um modelo relacional - Documentação da IBM](https://www.ibm.com/docs/pt-br/cognos-analytics/10.2.2?topic=designer-creating-relational-model)
-
 ## Modelo Físico
 
 Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do banco de dados. Este arquivo deverá ser incluído dentro da pasta src\bd.
 
+![Modelo físico](tela_banco.sql.jpg)
+
+* scrip anexado (pasta src\bd) - pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/ src/ ativos
+/meucloset.sql
+  
 ## Tecnologias Utilizadas
 
-Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
+### Front-End:
 
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
+1. **JavaScript** 
+2. **Frameworks de JavaScript:** React Native, Node.js.
+
+3. **Design Responsivo:** Para garantir que o aplicativo seja acessível em dispositivos móveis, tablets e desktops.
+
+4. **UI/UX Design:** Ferramentas de design como Lucidchart, Figma, Canva e InVision são usadas para criar designs de interface do usuário.
+
+### Back-End:
+
+5. **Linguagem de Programação:** A escolha da linguagem de programação pode variar, mas linguagens populares incluem Python, Node.js (JavaScript), Java ou PHP.
+
+6. **Frameworks de Desenvolvimento:** Express.js (Node.js).
+
+7. **Banco de Dados:** MongoDb 
+
+8. **APIs:** Para integrações com serviços de terceiros, como sistemas de pagamento e sistemas de entrega, etc.
+
+
+### Tecnologias Inteligentes:
+
+10. **Servidores Web:** Para hospedar seu aplicativo, você pode usar serviços de hospedagem na nuvem como AWS, Google Cloud, Azure ou hospedagem compartilhada.
+
+### Sistemas:
+
+11. O sistema utilizado foi o MERN stack, que é um framework JavaScript full-stack que simplifica o desenvolvimento de aplicações web modernas. 
+![WhatsApp Image 2023-11-19 at 11 50 47](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb-atualizado/assets/112135152/fbb85e72-ceb0-485f-aa2a-38bbccac9f58)
+
+### Segurança:
+
+12. Implementar práticas de segurança, como autenticação de usuário, autorização, criptografia de dados e prevenção de ataques. Ele combina o React, o Node. js, o Express e o MongoDB em um único pacote.
+
+
+### Testes e QA:
+
+13. Ferramentas de teste e controle de qualidade, como Jest, Selenium, ou ferramentas de automação de teste.
+
+### Monitoramento e Analytics:
+
+14. Ferramentas para monitorar o desempenho do aplicativo e coletar dados de uso, como Google Analytics ou Firebase Analytics.
+
+![0bb2b6e2-9941-492f-ab11-e75b531b5179 (1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/assets/104511336/e0c02332-d5b6-47c6-8607-5cf7a30dd4c8)
 
 ## Hospedagem
 
-Explique como a hospedagem e o lançamento da plataforma foi feita.
+![Hospedagem](hospedagem_lancamento.jpg)
 
-> **Links Úteis**:
->
-> - [Website com GitHub Pages](https://pages.github.com/)
-> - [Programação colaborativa com Repl.it](https://repl.it/)
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Publicando Seu Site No Heroku](http://pythonclub.com.br/publicando-seu-hello-world-no-heroku.html)
 
 ## Qualidade de Software
 
-Conceituar qualidade de fato é uma tarefa complexa, mas ela pode ser vista como um método gerencial que através de procedimentos disseminados por toda a organização, busca garantir um produto final que satisfaça às expectativas dos stakeholders.
+A norma ISO 9126 é uma norma internacional que define um conjunto de características e subcaracterísticas para a avaliação da qualidade de software.  A escolha específica de características e subcaracterísticas dependerá das necessidades e objetivos do projeto de software.
+![![0bb2b6e2-9941-492f-ab11-e75b531b5179](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/assets/104511336/92ca2769-6662-4c64-82b4-06843a718be6)
+imagem da tabela de qualidade de software](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/blob/main/docs/img/Qualidade%20de%20Softwere-1.png)
 
-No contexto de desenvolvimento de software, qualidade pode ser entendida como um conjunto de características a serem satisfeitas, de modo que o produto de software atenda às necessidades de seus usuários. Entretanto, tal nível de satisfação nem sempre é alcançado de forma espontânea, devendo ser continuamente construído. Assim, a qualidade do produto depende fortemente do seu respectivo processo de desenvolvimento.
+## Requisitos de Qualidade
 
-A norma internacional ISO/IEC 25010, que é uma atualização da ISO/IEC 9126, define oito características e 30 subcaracterísticas de qualidade para produtos de software.
-Com base nessas características e nas respectivas sub-características, identifique as sub-características que sua equipe utilizará como base para nortear o desenvolvimento do projeto de software considerando-se alguns aspectos simples de qualidade. Justifique as subcaracterísticas escolhidas pelo time e elenque as métricas que permitirão a equipe avaliar os objetos de interesse.
+## Funcionalidade
 
-> **Links Úteis**:
->
-> - [ISO/IEC 25010:2011 - Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — System and software quality models](https://www.iso.org/standard/35733.html/)
-> - [Análise sobre a ISO 9126 – NBR 13596](https://www.tiespecialistas.com.br/analise-sobre-iso-9126-nbr-13596/)
-> - [Qualidade de Software - Engenharia de Software 29](https://www.devmedia.com.br/qualidade-de-software-engenharia-de-software-29/18209/)
+- **Adequação:** Fornecer uma variedade de funções para organização de guarda-roupa.
+- **Acurácia:** Alto grau de precisão na exibição de informações sobre roupas e conjuntos.
+- **Interoperabilidade:** Compatibilidade com Android e iOS.
+- **Segurança:** Criptografia dos dados pessoais e autenticação do usuário.
+- **Conformidade:** Conformidade com as leis de proteção de dados e outras regulamentações.
+
+## Usabilidade
+
+- **Inteligibilidade:** Design intuitivo para fácil navegação.
+- **Apreensibilidade:** Inclusão de tutoriais ou guias para auxiliar novos usuários.
+- **Operabilidade:** Facilidade de uso com controles bem projetados, como filtros e recursos de busca.
+- **Atratividade:** Design visualmente agradável, com uma paleta de cores apropriada.
+- **Conformidade:** Adesão às melhores práticas e padrões da indústria para design de UI/UX.
+
+
+
+## Qualidade dos Padrões de Codificação
+
+
+## Local Storage
+
+- **Nomeação de Chaves**: 
+  - Use nomes descritivos e claros para facilitar a compreensão.
+  - Exemplo: Em vez de 'usr', use 'userProfile'.
+
+- **Verificação de Existência**: 
+  - Sempre verifique se a chave já existe no Local Storage antes de tentar recuperar dados.
+  - Exemplo: Use `localStorage.getItem('chave') !== null` para esta verificação.
+
+- **Segurança**: 
+  - Evite armazenar informações sensíveis, já que o Local Storage é acessível via JavaScript no navegador.
+
+
+## JSON
+
+- **Indentação**: 
+  - Mantenha a indentação consistente, preferencialmente com 2 espaços, para facilitar a leitura do JSON.
+
+- **Nomeação de Atributos**: 
+  - Use camelCase para nomear atributos.
+  - Exemplo: `"firstName": "John"`
+
+- **Validação de JSON**: 
+  - Certifique-se de que o JSON é válido antes de usá-lo em sua aplicação.
+  - Ferramentas como JSONLint podem ser úteis para isso.
+
+- **Tipo de Dados**: 
+  - Seja consistente com os tipos de dados. Se um campo é numérico, garanta que ele seja numérico em todas as entradas.
+
+
+
