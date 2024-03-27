@@ -168,6 +168,8 @@ Enumere as restrições à sua solução. Lembre-se de que as restrições geral
 
 # Matriz de Rastreabilidade
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-pmv-ads-2024-1-e4-proj-infra-t5-grupo05/assets/104511336/24afe50f-9449-436d-8565-d7c69fa670db)
+
 A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo a rastreabilidade entre os requisitos e os objetivos de negócio. 
 
 A matriz abaixo contempla todos os elementos relevantes e suas conexões que fazem parte do aplicativo My Closet:
