@@ -162,7 +162,7 @@ Enumere as restrições à sua solução. Lembre-se de que as restrições geral
 
 ## Diagrama de Casos de Uso
 
-![a7affcdc-58df-40bb-8d5d-46e4a4c88704 (1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-pmv-ads-2024-1-e4-proj-infra-t5-grupo05/assets/104511336/f6374faa-4fe1-4f5b-8b8c-e403529dfad6)
+
 
 
 
@@ -172,7 +172,7 @@ A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualizaç
 
 A matriz abaixo contempla todos os elementos relevantes e suas conexões que fazem parte do aplicativo My Closet:
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-pmv-ads-2024-1-e4-proj-infra-t5-grupo05/assets/104511336/24afe50f-9449-436d-8565-d7c69fa670db)
+
 
 
 
