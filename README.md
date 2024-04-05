@@ -16,9 +16,11 @@ Este projeto trata-se do desenvolvimento de uma aplicação funcional, com o int
 
 * Andressa Júlia Guedes Ribeiro
 * Sanderlei Cabral
+* João Pedro Pereira Dos Santos
 * Maria Júlia Silva Medeiros
 * Matheus Da Silva Câmara
 * Giovanna Maria Elias Coura
+  
 
 ## Orientador
 
