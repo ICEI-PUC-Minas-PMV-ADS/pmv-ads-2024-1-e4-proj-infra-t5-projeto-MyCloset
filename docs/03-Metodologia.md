@@ -1,6 +1,6 @@
 
 # Metodologia
-  Para o desenvolvimento das etapas do projeto foram utilizadas as seguintes ferramentas: O hambiente de trabalho selecionado foi o Microsoft teams, a fim de serem realizadas as reuniões de checkup e trabalharmos juntos em atividades; Visual Studio 2019 para a estrutura e gestão do código fonte; GitHub como repositório e organizador de sprints e tarefas e Git para controle de versões; Figma para realizar o design do layout do front-end; e Lucidchart e Astah para a confecção do diagrama de caso de uso.
+  Para o desenvolvimento das etapas do projeto foram utilizadas as seguintes ferramentas: O ambiente de trabalho selecionado foi o Microsoft teams, a fim de serem realizadas as reuniões de checkup e trabalharmos juntos em atividades; Visual Studio 2019 para a estrutura e gestão do código fonte; GitHub como repositório e organizador de sprints e tarefas e Git para controle de versões; Figma para realizar o design do layout do front-end; e Lucidchart e Astah para a confecção do diagrama de caso de uso.
   
 ## Relação de Ambientes de Trabalho
  Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
@@ -67,11 +67,13 @@ A equipe foi organizada, conforme abaixo, da seguinte maneira:
   * Matheus Da Silva Câmara
   * Maria Júlia Silva Medeiros
   * Giovanna Maria Elias Coura
+  * João Pedro Pereira Dos Santos
                                  
   **Equipe de Design:**
   * Andressa Guedes
   * Sanderlei Cabral
   * Giovanna Maria Elias Coura
+  * João Pedro Pereira Dos Santos
 
 
 ### Processo
