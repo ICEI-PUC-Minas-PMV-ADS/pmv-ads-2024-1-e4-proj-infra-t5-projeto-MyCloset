@@ -160,7 +160,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Diagrama de Casos de Uso
 
-![Diagrama de Casos de Uso](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-pmv-ads-2024-1-e4-proj-infra-t5-grupo05/assets/161225132/79936b72-0ab6-42f1-b441-0a1e459b53a2)
+![Diagrama de Casos de Uso](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-pmv-ads-2024-1-e4-proj-infra-t5-grupo05/blob/main/docs/img/Diagrama%20de%20Casos%20de%20Uso.png)
 
 
 # Matriz de Rastreabilidade
@@ -241,6 +241,7 @@ A equipe foi organizada, conforme abaixo, da seguinte maneira:
   * Sanderlei Cabral
   * Matheus Da Silva Câmara
   * Maria Júlia Silva Medeiros
+  * João Pedro Pereira Dos Santos
 
 ## Gestão de Orçamento
 
