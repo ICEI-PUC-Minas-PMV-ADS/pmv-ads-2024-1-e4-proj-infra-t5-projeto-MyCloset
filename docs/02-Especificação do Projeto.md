@@ -88,21 +88,26 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 ### Análise da Situação Atual
 
 #### Problemas Existentes:
-- Gestão ineficiente de roupas: muitas pessoas têm roupas em excesso e não sabem como organizá-las ou o que possuem.
-- Desperdício: roupas não usadas ocupam espaço e muitas vezes são descartadas, contribuindo para o desperdício.
+
+- Gestão ineficiente de roupas: roupas em excesso por pessoa que não sabem como organizá-las.
+- Desperdício: roupas não usadas e descartadas contribuem para o desperdício.
 
 #### Modelo Atual:
+
 Atualmente, as pessoas utilizam métodos tradicionais, como armários físicos e gavetas, para gerenciar suas roupas. Algumas usam planilhas ou aplicativos básicos de lista, mas essas soluções não oferecem funcionalidades como troca, venda ou doação de itens.
 
 ### Descrição Geral da Proposta
 
 #### Limites:
-O aplicativo focará inicialmente em roupas e acessórios, excluindo outros tipos de itens como eletrodomésticos.
+
+O aplicativo tem como foco itens de vestúario.
 
 #### Estratégias e Objetivos:
+
 - Oferecer uma plataforma intuitiva para gerenciar itens de vestuário.
 
 #### Oportunidades de Melhorias:
+
 - Automatizar o processo de categorização.
 
 ## Indicadores de Desempenho
@@ -125,14 +130,11 @@ A Tabela a seguir apresenta os requisitos funcionais do projeto, bem como suas p
 |ID    | Descrição do Requisito                                                                                     |Prioridade|
 |------|------------------------------------------------------------------------------------------------------------|----------|
 |RF-001| Permitir que o usuário cadastre peças de roupas.                                                           |   ALTA   | 
-|RF-002| Os usuários devem poder cadastrar informações sobre suas roupas, como sua categoria.                    |   MÉDIA  |
-|RF-003| Os usuários podem adicionar uma foto da roupa ao cadastrá-la.                                              |   ALTA   | 
-|RF-004| O cadastro de roupas deve ser intuitivo e fácil de completar.                                              |   MÉDIA  |
-|RF-005| Os usuários devem poder criar looks combinando diferentes peças de roupa do seu guarda-roupa.              |   ALTA   | 
-|RF-006| Os usuários podem filtrar suas roupas por categorias (por exemplo, camisetas, calças, vestidos, etc.).     |   ALTA   | 
-|RF-007| Os usuários devem poder editar as informações das roupas cadastradas                                       |   ALTA   | 
-|RF-008| Os usuários também devem poder remover roupas do guarda-roupa.                                             |   ALTA   |
-|RF-009| Os usuários devem conseguir realizar o cadastro de nova conta.                                             |   ALTA   |
+|RF-002| Os usuários podem adicionar uma foto da roupa ao cadastrá-la.                                              |   ALTA   | 
+|RF-003| Os usuários devem poder criar looks combinando diferentes peças de roupa do seu guarda-roupa.              |   ALTA   | 
+|RF-004| Os usuários podem filtrar suas roupas por categorias (por exemplo, camisetas, calças, vestidos, etc.).     |   ALTA   | 
+|RF-005| Os usuários também devem poder remover roupas do guarda-roupa.                                             |   ALTA   |
+|RF-006| Os usuários devem conseguir realizar o cadastro de nova conta.                                             |   BAIXA  |
 
 ### Requisitos não Funcionais
 
@@ -140,12 +142,13 @@ A tabela a seguir apresenta então os requisitos não funcionais do projeto, apr
 
 |ID     | Descrição do Requisito                                                                                                                                               |Prioridade |
 |-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
-|RNF-001| O sistema deve ser desenvolvido na linguagem React Native.                                                                                                           |   MÉDIA   | 
-|RNF-002| O aplicativo deve responder de forma rápida e suave aos comandos do usuário, minimizando atrasos e travamentos.                                                      |   MEDIA   | 
-|RNF-003| A interface do usuário deve ser intuitiva e de fácil compreensão, permitindo que os usuários interajam com o aplicativo sem dificuldades.                            |   ALTA    |
-|RNF-004| Dados pessoais dos usuários, como informações de login e detalhes do guarda-roupa, devem ser protegidos por meio de criptografia e práticas seguras de armazenamento.|   ALTA    |
-|RNF-005| O código-fonte do aplicativo deve ser organizado de forma modular e reutilizável para facilitar a manutenção e futuras atualizações.                                 |   MEDIA   |
 
+|RNF-001| O aplicativo deve responder de forma rápida e suave aos comandos do usuário, minimizando atrasos e travamentos.                                                      |   MEDIA   | 
+|RNF-002| A interface do usuário deve ser intuitiva e de fácil compreensão, permitindo que os usuários interajam com o aplicativo sem dificuldades.                            |   ALTA    |
+|RNF-003| Dados pessoais dos usuários, como informações de login e detalhes do guarda-roupa, devem ser protegidos por meio de criptografia e práticas seguras de armazenamento.|   ALTA    |
+|RNF-004| O código-fonte do aplicativo deve ser organizado de forma modular e reutilizável para facilitar a manutenção e futuras atualizações.                                 |   MEDIA   |
+|RNF-005| Escalabilidade: Média prioridade. Inicialmente, o app pode lidar com uma quantidade moderada de itens, mas deve ser projetado para crescer no futuro.             |   MEDIA   |
+|RNF-005|Acessibilidade: Alta prioridade. Todos devem poder usar o app confortavelmente. |   MEDIA   |
 
 ## Restrições
 
@@ -154,11 +157,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |ID   | Restrição                                                                 |
 |-----|---------------------------------------------------------------------------|
 |RE-01| O projeto deverá ser entregue até a data limite.                          |
-|RE-02| O aplicativo se restringe à linguagem c# back-end.                        |
+|RE-02| O aplicativo se restringe ao desenvolvimento de uma Aplicação Distribuída.|
 |RE-03| A equipe do projeto não poderá subcontratar o desenvolvimento do projeto. |
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata. (Vinicius ficou com essa parte, porém não fez).
-
 
 ## Diagrama de Casos de Uso
 
