@@ -142,13 +142,11 @@ A tabela a seguir apresenta então os requisitos não funcionais do projeto, apr
 
 |ID     | Descrição do Requisito                                                                                                                                               |Prioridade |
 |-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
-
-|RNF-001| O aplicativo deve responder de forma rápida e suave aos comandos do usuário, minimizando atrasos e travamentos.                                                      |   MEDIA   | 
-|RNF-002| A interface do usuário deve ser intuitiva e de fácil compreensão, permitindo que os usuários interajam com o aplicativo sem dificuldades.                            |   ALTA    |
-|RNF-003| Dados pessoais dos usuários, como informações de login e detalhes do guarda-roupa, devem ser protegidos por meio de criptografia e práticas seguras de armazenamento.|   ALTA    |
-|RNF-004| O código-fonte do aplicativo deve ser organizado de forma modular e reutilizável para facilitar a manutenção e futuras atualizações.                                 |   MEDIA   |
-|RNF-005| Escalabilidade: Média prioridade. Inicialmente, o app pode lidar com uma quantidade moderada de itens, mas deve ser projetado para crescer no futuro.             |   MEDIA   |
-|RNF-005|Acessibilidade: Alta prioridade. Todos devem poder usar o app confortavelmente. |   MEDIA   |
+|RNF-001| O sistema deve ser desenvolvida em uma Aplicação Distribuída.                                                                                                           |   MÉDIA   | 
+|RNF-002| O aplicativo deve responder de forma rápida e suave aos comandos do usuário, minimizando atrasos e travamentos.                                                      |   MEDIA   | 
+|RNF-003| A interface do usuário deve ser intuitiva e de fácil compreensão, permitindo que os usuários interajam com o aplicativo sem dificuldades.                            |   ALTA    |
+|RNF-004| Dados pessoais dos usuários, como informações de login e detalhes do guarda-roupa, devem ser protegidos por meio de criptografia e práticas seguras de armazenamento.|   ALTA    |
+|RNF-005| O código-fonte do aplicativo deve ser organizado de forma modular e reutilizável para facilitar a manutenção e futuras atualizações.                                 |   MEDIA   |
 
 ## Restrições
 
