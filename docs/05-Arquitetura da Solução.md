@@ -2,28 +2,29 @@
 
 <span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>
 
-Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
+A arquitetura de um aplicativo mobile é um aspecto crucial que influencia diretamente na criação, manutenção e escalabilidade do aplicativo. A escolha da arquitetura correta é fundamental para garantir que o aplicativo seja eficiente, seguro, e possa ser facilmente modificado ou expandido. 
 
-![Arquitetura da Solução](img/02-mob-arch.png)
+![arquitetura da solucao](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-pmv-ads-2024-1-e4-proj-infra-t5-grupo05/blob/main/docs/img/arquitetura_da_solucao.png)
+
 
 ## Diagrama de Classes
 
 O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
 
-![diagrama de classes](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb-atualizado/blob/main/docs/img/Classe%20UML.jpeg)
+![diagrama de classes]()
 
 ## Modelo ER
 
 Um diagrama de entidade-relacionamento (DER) é uma representação visual que descreve a estrutura de um sistema de banco de dados ou as relações entre entidades (tabelas) dentro desse sistema. Ele usa símbolos gráficos para representar entidades, atributos e os relacionamentos entre entidades. O principal objetivo de um DER é modelar como os dados são organizados e inter-relacionados em um banco de dados, proporcionando uma visão clara das entidades envolvidas e suas conexões.  É amplamente utilizado em engenharia de software e gerenciamento de banco de dados para planejar, projetar e documentar sistemas de informações complexos.
 
-![diagrama de classes](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb-atualizado/blob/5411395d0a1aae135bd37173f64963b0154ada21/docs/img/Diagrama%20ER%20Mycloset%2011.jpeg)
+![diagrama de classes]()
 
 
 ## Esquema Relacional
 
 O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-pmv-ads-2024-1-e4-proj-infra-t5-grupo05/assets/161225132/40f1c7b4-1470-4a6f-8f2a-0b8cd91d3d67)
+![image]()
 
 
  
@@ -31,7 +32,7 @@ O Esquema Relacional corresponde à representação dos dados em tabelas juntame
 
 Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do banco de dados. Este arquivo deverá ser incluído dentro da pasta src\bd.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-pmv-ads-2024-1-e4-proj-infra-t5-grupo05/assets/161225132/c7461d2f-57d9-4669-a469-3fda635e43aa)
+![image]()
 
 
 * scrip anexado (pasta src\bd) - pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/ src/ ativos
