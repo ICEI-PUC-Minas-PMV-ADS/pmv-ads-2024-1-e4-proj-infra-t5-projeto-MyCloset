@@ -88,8 +88,6 @@ Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do ba
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-pmv-ads-2024-1-e4-proj-infra-t5-grupo05/assets/161225132/c8b6c80f-7c16-449d-ba04-887098589807)
 
-
-
 ## Qualidade de Software
 
 A norma ISO 9126 é uma norma internacional que define um conjunto de características e subcaracterísticas para a avaliação da qualidade de software.  A escolha específica de características e subcaracterísticas dependerá das necessidades e objetivos do projeto de software.
@@ -98,56 +96,41 @@ imagem da tabela de qualidade de software](https://github.com/ICEI-PUC-Minas-PMV
 
 ## Requisitos de Qualidade
 
-## Funcionalidade
+#### Funcionalidade
 
-- **Adequação:** Fornecer uma variedade de funções para organização de guarda-roupa.
-- **Acurácia:** Alto grau de precisão na exibição de informações sobre roupas e conjuntos.
-- **Interoperabilidade:** Compatibilidade com Android e iOS.
-- **Segurança:** Criptografia dos dados pessoais e autenticação do usuário.
-- **Conformidade:** Conformidade com as leis de proteção de dados e outras regulamentações.
+- **Adequação:** Fornecer uma variedade de funções para organização de guarda-roupa em diferentes dispositivos e plataformas.
+- **Acurácia:** Alto grau de precisão na exibição de informações sobre roupas e conjuntos, sincronizando dados entre dispositivos.
+- **Interoperabilidade:** Compatibilidade com Android, iOS e plataformas web, garantindo uma experiência consistente em todos os dispositivos.
+- **Segurança:** Criptografia de dados pessoais e autenticação do usuário em todos os pontos de acesso da aplicação.
+- **Conformidade:** Conformidade com as leis de proteção de dados e outras regulamentações, considerando as diferenças regionais.
 
-## Usabilidade
+#### Usabilidade
 
-- **Inteligibilidade:** Design intuitivo para fácil navegação.
-- **Apreensibilidade:** Inclusão de tutoriais ou guias para auxiliar novos usuários.
-- **Operabilidade:** Facilidade de uso com controles bem projetados, como filtros e recursos de busca.
-- **Atratividade:** Design visualmente agradável, com uma paleta de cores apropriada.
-- **Conformidade:** Adesão às melhores práticas e padrões da indústria para design de UI/UX.
+- **Inteligibilidade:** Design responsivo e intuitivo para fácil navegação em diferentes tamanhos de tela.
+- **Apreensibilidade:** Inclusão de tutoriais ou guias interativos para auxiliar novos usuários em diferentes plataformas.
+- **Operabilidade:** Facilidade de uso com controles bem projetados, como filtros e recursos de busca, adaptados para interação via toque ou mouse.
+- **Atratividade:** Design visualmente agradável, com uma paleta de cores apropriada e adaptação ao tema do dispositivo (claro/escuro).
+- **Conformidade:** Adesão às melhores práticas e padrões da indústria para design de UI/UX em aplicações multiplataforma.
 
+#### Qualidade dos Padrões de Codificação
 
+- **Local Storage:**
+  - **Nomeação de Chaves:** Use nomes descritivos e claros para facilitar a compreensão em um contexto distribuído.
+  - **Verificação de Existência:** Verifique se a chave já existe no Local Storage antes de tentar recuperar dados, considerando a possibilidade de sincronização entre dispositivos.
+  - **Segurança:** Evite armazenar informações sensíveis e considere o uso de mecanismos de armazenamento mais seguros para dados críticos.
 
-## Qualidade dos Padrões de Codificação
+- **JSON:**
+  - **Indentação:** Mantenha a indentação consistente para facilitar a leitura e manutenção do JSON em um ambiente de desenvolvimento colaborativo.
+  - **Nomeação de Atributos:** Use camelCase para nomear atributos, mantendo a consistência em toda a aplicação distribuída.
+  - **Validação de JSON:** Certifique-se de que o JSON é válido antes de usá-lo em sua aplicação, especialmente ao receber dados de diferentes fontes.
+  - **Tipo de Dados:** Seja consistente com os tipos de dados para garantir a integridade e consistência dos dados em toda a aplicação.
 
+### Considerações Adicionais para Aplicações Distribuídas
 
-## Local Storage
+- **Escalabilidade:** Garanta que a aplicação possa escalar horizontalmente para lidar com o aumento da carga e do número de usuários.
+- **Disponibilidade:** Implemente estratégias para garantir a alta disponibilidade da aplicação, como o uso de balanceadores de carga e replicação de dados.
+- **Consistência:** Considere os desafios de consistência de dados em um ambiente distribuído e escolha o modelo de consistência adequado para sua aplicação.
 
-- **Nomeação de Chaves**: 
-  - Use nomes descritivos e claros para facilitar a compreensão.
-  - Exemplo: Em vez de 'usr', use 'userProfile'.
-
-- **Verificação de Existência**: 
-  - Sempre verifique se a chave já existe no Local Storage antes de tentar recuperar dados.
-  - Exemplo: Use `localStorage.getItem('chave') !== null` para esta verificação.
-
-- **Segurança**: 
-  - Evite armazenar informações sensíveis, já que o Local Storage é acessível via JavaScript no navegador.
-
-
-## JSON
-
-- **Indentação**: 
-  - Mantenha a indentação consistente, preferencialmente com 2 espaços, para facilitar a leitura do JSON.
-
-- **Nomeação de Atributos**: 
-  - Use camelCase para nomear atributos.
-  - Exemplo: `"firstName": "John"`
-
-- **Validação de JSON**: 
-  - Certifique-se de que o JSON é válido antes de usá-lo em sua aplicação.
-  - Ferramentas como JSONLint podem ser úteis para isso.
-
-- **Tipo de Dados**: 
-  - Seja consistente com os tipos de dados. Se um campo é numérico, garanta que ele seja numérico em todas as entradas.
 
 
 
