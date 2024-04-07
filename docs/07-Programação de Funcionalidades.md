@@ -1,10 +1,68 @@
 # Programação de Funcionalidades
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="5-Arquitetura da Solução.md"> Arquitetura da Solução</a>
+## Documentação da API - My Closet
 
-Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
+## Visão Geral
+A API do My Closet permite aos usuários gerenciar seu guarda-roupa virtual e eventos associados às roupas. As principais funcionalidades incluem a criação de eventos, associação de roupas a eventos e listagem de roupas e eventos.
 
-Para cada requisito funcional, pode ser entregue um artefato desse tipo
+## Configuração Local
+- **Banco de Dados:** MongoDB rodando localmente. Certifique-se de que o MongoDB está instalado e que você tem uma pasta `C:\data\db` para armazenar os dados.
+- **Servidor:** API desenvolvida em Node.js com Express. Rodando localmente na porta 3000.
+
+## Endpoints
+
+## Eventos
+
+#### Criar Evento
+- **URL Local:** `http://localhost:3000/api/eventos`
+- **Método:** `POST`
+- **Corpo da Requisição:**
+  ```json
+  {
+    "nome": "Entrevista de Emprego",
+    "descricao": "Entrevista para a vaga de desenvolvedor",
+    "data": "2024-05-20",
+    "tipo": "Formal",
+    "usuario": "usuarioId123"
+  }
+  ```
+- **Resposta:** Evento criado com status 201.
+
+#### Listar Eventos de um Usuário
+- **URL Local:** `http://localhost:3000/api/eventos/usuario/:usuarioId`
+- **Método:** `GET`
+- **Resposta:** Lista de eventos do usuário.
+
+## Roupas
+
+#### Listar Roupas de um Usuário
+- **URL Local:** `http://localhost:3000/api/roupas/usuario/:usuarioId`
+- **Método:** `GET`
+- **Resposta:** Lista de roupas do usuário.
+
+#### Associar Roupa a Evento
+- **URL Local:** `http://localhost:3000/api/eventos/:eventoId/roupa`
+- **Método:** `POST`
+- **Corpo da Requisição:**
+  ```json
+  {
+    "roupaId": "roupaId456"
+  }
+  ```
+- **Resposta:** Evento atualizado com a roupa associada.
+
+#### Remover Roupa de Evento
+- **URL Local:** `http://localhost:3000/api/eventos/:eventoId/roupa/:roupaId`
+- **Método:** `DELETE`
+- **Resposta:** Evento atualizado com a roupa removida.
+
+## Autenticação
+Todos os endpoints requerem autenticação. O token de autenticação deve ser incluído no cabeçalho da requisição:
+
+```
+Authorization: Bearer <seu_token>
+```
+```
 
 > **Links Úteis**:
 >
