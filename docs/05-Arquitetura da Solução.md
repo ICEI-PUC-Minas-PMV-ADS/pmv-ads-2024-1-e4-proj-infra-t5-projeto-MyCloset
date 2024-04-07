@@ -4,14 +4,13 @@
 
 A arquitetura de um aplicativo mobile é um aspecto crucial que influencia diretamente na criação, manutenção e escalabilidade do aplicativo. A escolha da arquitetura correta é fundamental para garantir que o aplicativo seja eficiente, seguro, e possa ser facilmente modificado ou expandido. 
 
-![arquitetura da solucao](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-pmv-ads-2024-1-e4-proj-infra-t5-grupo05/blob/main/docs/img/arquitetura_da_solucao.png)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-pmv-ads-2024-1-e4-proj-infra-t5-grupo05/assets/104511336/0501fe98-a9e8-4bb2-8679-e19ac47643a6)
+
 
 
 ## Diagrama de Classes
 
-O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
-
-![diagrama de classes]()
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-pmv-ads-2024-1-e4-proj-infra-t5-grupo05/assets/104511336/936a76e0-4f66-43a9-99b1-af9dd6dc924c)
 
 ## Modelo ER
 
@@ -25,15 +24,6 @@ Um diagrama de entidade-relacionamento (DER) é uma representação visual que d
 O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-pmv-ads-2024-1-e4-proj-infra-t5-grupo05/assets/161225132/dc90b8be-43b8-42e1-bf17-76f1b238b8f0)
 
-
-
- 
-## Modelo Físico
-
-Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do banco de dados. Este arquivo deverá ser incluído dentro da pasta src\bd.
-
-![image]()
-
   
 ## Tecnologias Utilizadas
 
@@ -44,36 +34,33 @@ Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do ba
 
 3. **Design Responsivo:** Para garantir que o aplicativo seja acessível em dispositivos móveis, tablets e desktops.
 
-4. **UI/UX Design:** Ferramentas de design como Lucidchart, Figma, Canva e InVision são usadas para criar designs de interface do usuário.
-
+4. **UI/UX Design:**  Figma, Canva.
 ### Back-End:
 
-5. **Linguagem de Programação:** A escolha da linguagem de programação pode variar, mas linguagens populares incluem Python, Node.js (JavaScript), Java ou PHP.
+5. **Linguagem de Programação:** Javascript.
 
-6. **Frameworks de Desenvolvimento:** Express.js (Node.js).
+6. **Frameworks de Desenvolvimento:** React (Node.js).
 
-7. **Banco de Dados:** MongoDb 
-
-8. **APIs:** Para integrações com serviços de terceiros, como sistemas de pagamento e sistemas de entrega, etc.
+7. **Banco de Dados:** MongoDb.
 
 
 ### Tecnologias Inteligentes:
 
-10. **Servidores Web:** Para hospedar seu aplicativo, você pode usar serviços de hospedagem na nuvem como AWS, Google Cloud, Azure ou hospedagem compartilhada.
+10. **Servidores Web:** AWS/amplify.
 
 ### Sistemas:
 
-11. O sistema utilizado foi o MERN stack, que é um framework JavaScript full-stack que simplifica o desenvolvimento de aplicações web modernas. 
+11. O sistema utilizado foi o MERN, que é um stack baseado em JavaScript full-stack que simplifica o desenvolvimento de aplicações web modernas. 
 ![WhatsApp Image 2023-11-19 at 11 50 47](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb-atualizado/assets/112135152/fbb85e72-ceb0-485f-aa2a-38bbccac9f58)
 
 ### Segurança:
 
-12. Implementar práticas de segurança, como autenticação de usuário, autorização, criptografia de dados e prevenção de ataques. Ele combina o React, o Node. js, o Express e o MongoDB em um único pacote.
+12. React, o Node. js, o Express e o MongoDB.
 
 
 ### Testes e QA:
 
-13. Ferramentas de teste e controle de qualidade, como Jest, Selenium, ou ferramentas de automação de teste.
+13. Jest.
 
 ### Monitoramento e Analytics:
 
