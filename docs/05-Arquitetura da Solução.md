@@ -62,11 +62,6 @@ O Esquema Relacional corresponde à representação dos dados em tabelas juntame
 
 13. Jest.
 
-### Monitoramento e Analytics:
-
-14. Ferramentas para monitorar o desempenho do aplicativo e coletar dados de uso, como Google Analytics ou Firebase Analytics.
-
-![0bb2b6e2-9941-492f-ab11-e75b531b5179 (1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/assets/104511336/e0c02332-d5b6-47c6-8607-5cf7a30dd4c8)
 
 ## Hospedagem
 
