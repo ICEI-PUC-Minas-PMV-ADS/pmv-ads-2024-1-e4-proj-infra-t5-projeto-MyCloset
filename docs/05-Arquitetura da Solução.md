@@ -34,9 +34,6 @@ Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do ba
 
 ![image]()
 
-
-* scrip anexado (pasta src\bd) - pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/ src/ ativos
-/meucloset.sql
   
 ## Tecnologias Utilizadas
 
