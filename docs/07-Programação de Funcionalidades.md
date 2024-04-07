@@ -62,7 +62,6 @@ Todos os endpoints requerem autenticação. O token de autenticação deve ser i
 ```
 Authorization: Bearer <seu_token>
 ```
-```
 
 > **Links Úteis**:
 >
