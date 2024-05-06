@@ -1,0 +1,424 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: "Roboto", Arial, Helvetica, sans-serif;
+    background-color: rgb(253, 255, 248);
+
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FFE6BA;
+    padding: 1.2rem 2.4rem;
+    width: 100%;
+    font-size: 28px;
+    gap: 2rem;
+}
+
+header>img {
+    width: 15rem;
+}
+
+header>nav {
+    display: flex;
+    gap: 06rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.cabide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.nav1 {
+    display: flex;
+    gap: 00rem;
+    display: flex;
+    justify-content: center; */
+    align-items: center;
+  }
+
+
+header>nav>a {
+    color:#050502;
+    text-decoration: none;
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+
+header>nav>a:hover {
+    color: #FF003C;
+}
+
+#hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20rem;
+
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#hero>h1 {
+    font-size: 5rem;
+    font-weight: 1000;
+    color: #050502;
+}
+
+/* CARD - SUPERIOR - LOOKS - INÍCIO */
+
+#looks {
+    padding: 2.4rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6rem;
+}
+
+#looks>h2 {
+    text-align: left;
+    font-size: 3.5rem;
+    font-weight: 600;
+}
+
+#container-cards {
+    display: flex;
+    align-items: baseline;
+    gap: 1.6rem;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    border-radius: rem;
+    overflow: hidden;
+
+}
+
+.card>img {
+    width: 30rem;
+    height: 25rem;
+    object-fit: cover;
+    /* object-position: center; */
+    align-items: center;
+    border-radius: 10px 40px;
+
+
+}
+
+/* .card-content {
+    display: flex;
+    justify-content: center;
+    background-color: #1a1a1a;
+    height: 3rem;
+} */
+
+.card-content>p {
+    color: #dfd2d2;
+    font-size: 2.5rem;
+}
+
+/* CARD - SUPERIOR - LOOKS - FIM */
+
+
+/* CARD - INFERIOR - LOOKS - INÍCIO */
+
+#looks2 {
+    padding: 2.4rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6rem;
+}
+
+#looks2>h2 {
+    text-align: left;
+    font-size: 3.5rem;
+    font-weight: 600;
+}
+
+#container-cards2 {
+    display: flex;
+    align-items: baseline;
+    gap: 1.6rem;
+}
+
+.card2 {
+    display: flex;
+    flex-direction: column;
+    border-radius: rem;
+    overflow: hidden;
+
+}
+
+.card2>img {
+    width: 30rem;
+    height: 25rem;
+    object-fit: cover;
+    /* object-position: center; */
+    align-items: center;
+    border-radius: 50%;
+
+}
+
+.card-content2 {
+    display: flex;
+    justify-content: center;
+    background-color: #1a1a1a;
+    height: 3rem;
+    border-radius: 30px;
+}
+
+.card-content2>p {
+    color: #dfd2d2;
+    font-size: 2.5rem;
+}
+
+/* CARD - INFERIOR - LOOKS - FIM */
+
+/*FOOTER*/
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    background-color: #121111;
+    border-top: 1px solid #e9ecef;
+    color: #FFF8F2;
+    font-size: 15px;
+    width: 100%;
+    height: 400%;
+}
+
+footer div {
+    margin-right: 0px;
+    margin-bottom: 0;
+}
+
+footer div:last-child {
+    margin-right: 0;
+}
+
+footer a  {
+    color: #FFF8F2 ;
+}
+
+
+.container-cards>h1 {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     }
+
+
+
+     /* REDES SOCIAIS INÍCIO */
+
+     .wrapper {
+        display: inline-flex;
+        list-style: none;
+        height: 120px;
+        width: 100%;
+        padding-top: 40px;
+        font-family: "Poppins", sans-serif;
+        justify-content: center;
+      }
+      
+      .wrapper .icon {
+        position: relative;
+        background: #fff;
+        border-radius: 50%;
+        margin: 10px;
+        width: 50px;
+        height: 50px;
+        font-size: 18px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+        cursor: pointer;
+        transition: all 0.2s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+      }
+      
+      .wrapper .tooltip {
+        position: absolute;
+        top: 0;
+        font-size: 14px;
+        background: #fff;
+        color: #fff;
+        padding: 5px 8px;
+        border-radius: 5px;
+        box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+        opacity: 0;
+        pointer-events: none;
+        transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+      }
+      
+      .wrapper .tooltip::before {
+        position: absolute;
+        content: "";
+        height: 8px;
+        width: 8px;
+        background: #fff;
+        bottom: -3px;
+        left: 50%;
+        transform: translate(-50%) rotate(45deg);
+        transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+      }
+      
+      .wrapper .icon:hover .tooltip {
+        top: -45px;
+        opacity: 1;
+        visibility: visible;
+        pointer-events: auto;
+      }
+      
+      .wrapper .icon:hover span,
+      .wrapper .icon:hover .tooltip {
+        text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.1);
+      }
+      
+      .wrapper .facebook:hover,
+      .wrapper .facebook:hover .tooltip,
+      .wrapper .facebook:hover .tooltip::before {
+        background: #1877f2;
+        color: #fff;
+      }
+      
+      .wrapper .twitter:hover,
+      .wrapper .twitter:hover .tooltip,
+      .wrapper .twitter:hover .tooltip::before {
+        background: #1da1f2;
+        color: #fff;
+      }
+      
+      .wrapper .instagram:hover,
+      .wrapper .instagram:hover .tooltip,
+      .wrapper .instagram:hover .tooltip::before {
+        background: #e4405f;
+        color: #fff;
+      }
+      
+
+     /* REDES SOCIAIS FIM */
+
+
+     /* RESPONSIVIDADE: */
+
+     /* Estilos para telas pequenas (dispositivos móveis) */
+@media (max-width: 768px) {
+    header, footer {
+        flex-direction: column;
+    }
+
+    header > nav, #nav1 {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    header > nav > a, #nav1 > a {
+        margin: 0.5rem 0;
+    }
+
+    #hero {
+        height: auto;
+    }
+
+    #hero > h1 {
+        font-size: 3rem;
+    }
+
+    #looks, #looks2 {
+        flex-direction: column;
+    }
+
+   .card,.card2 {
+        width: 100%;
+        margin: 1rem 0;
+    }
+
+   .card > img,.card2 > img {
+        width: 100%;
+        height: auto;
+    }
+
+   .wrapper {
+        flex-direction: column;
+        align-items: center;
+    }
+
+   .wrapper.icon {
+        margin: 0.5rem;
+    }
+}
+
+/* Estilos para telas médias (tablets) */
+@media (min-width: 769px) and (max-width: 1024px) {
+    header, footer {
+        flex-direction: row;
+    }
+
+    header > nav, #nav1 {
+        flex-direction: row;
+        justify-content: space-around;
+    }
+
+    header > nav > a, #nav1 > a {
+        margin: 0.5rem;
+    }
+
+    #hero {
+        height: 15rem;
+    }
+
+    #hero > h1 {
+        font-size: 4rem;
+    }
+
+    #looks, #looks2 {
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
+   .card,.card2 {
+        width: calc(50% - 1rem);
+        margin: 1rem;
+    }
+
+   .wrapper {
+        flex-direction: row;
+        justify-content: space-around;
+    }
+
+   .wrapper.icon {
+        margin: 1rem;
+    }
+}
+
+
+
+
+
+  
+
+     
