@@ -8,7 +8,9 @@ A arquitetura de um aplicativo mobile é um aspecto crucial que influencia diret
 
 
 
-## Diagrama de Classes
+## Diagrama de Classes do Sistema de Gestão de Roupas
+
+Este diagrama de classes representa as principais entidades do sistema de gestão de roupas, incluindo suas propriedades e métodos, e as relações entre elas.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/blob/main/docs/img/Diagrama%20de%20Classes%20-%20My%20Closet.drawio%20(2).png)
 
