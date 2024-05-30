@@ -10,7 +10,7 @@ A arquitetura de um aplicativo mobile é um aspecto crucial que influencia diret
 
 ## Diagrama de Classes
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-pmv-ads-2024-1-e4-proj-infra-t5-grupo05/assets/104511336/936a76e0-4f66-43a9-99b1-af9dd6dc924c)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/blob/main/docs/img/Diagrama%20de%20Classes%20-%20My%20Closet.drawio%20(2).png)
 
 ## Modelo ER
 
