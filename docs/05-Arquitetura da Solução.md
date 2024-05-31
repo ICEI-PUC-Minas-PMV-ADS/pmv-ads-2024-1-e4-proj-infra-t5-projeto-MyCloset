@@ -37,32 +37,6 @@ O esquema relacional representa os dados em tabelas, juntamente com as restriç�
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/blob/main/docs/img/Esquema%20relacional%20aj-%20My%20Closet.drawio.png)
 
 
-**Estrutura das Tabelas**
-
-1. **Usuários**:
-   - Contém informações detalhadas sobre os usuários, incluindo dados pessoais, ocupação, e data de cadastro.
-   - **Chaves Primárias (PK)**: `id_usuario`
-   - **Chaves Estrangeiras (FK)**: `id_pecas (FK)`, `id_looks (FK)`, `id_categorias (FK)`
-
-2. **Peças**:
-   - Armazena detalhes das peças de vestuário, como nome, cor, tamanho e tecido.
-   - **Chave Primária (PK)**: `id_pecas`
-   - **Chaves Estrangeiras (FK)**: `id_usuario (FK)`, `id_looks (FK)`, `id_categorias (FK)`
-
-3. **Looks**:
-   - Registra os diferentes looks criados pelos usuários, associando peças e categorias específicas.
-   - **Chave Primária (PK)**: `id_looks`
-   - **Chaves Estrangeiras (FK)**: `id_usuario (FK)`, `id_pecas (FK)`, `id_categorias (FK)`
-
-4. **Categorias**:
-   - Classifica peças e looks em categorias específicas, facilitando a organização e busca.
-   - **Chave Primária (PK)**: `id_categoria`
-   - **Chaves Estrangeiras (FK)**: `id_pecas (FK)`, `id_usuario (FK)`, `id_looks (FK)`
-
-**Relacionamentos**
-
-- **Usuários** possui relacionamentos de chave estrangeira com **Peças**, **Looks** e **Categorias**, garantindo a integridade referencial e a correta associação de dados entre as tabelas.
-
 Este esquema relacional foi projetado para otimizar o gerenciamento de dados de moda, proporcionando uma estrutura robusta e eficiente que suporta operações de consulta e manutenção de forma consistente.
 
   
