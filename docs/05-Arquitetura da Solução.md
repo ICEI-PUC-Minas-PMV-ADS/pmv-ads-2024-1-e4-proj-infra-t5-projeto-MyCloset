@@ -125,8 +125,9 @@ O lançamento foi realizado nas seguintes plataformas:
 - **Loja de aplicativos**: O aplicativo é publicado nas lojas de aplicativos, como App Store e Google Play.
   
 
-[![App Store](./assets/app-store-badge.png)](https://www.apple.com/app-store/)
-[![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store)
+
+[<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" width="100">](https://www.apple.com/app-store/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" width="100">](https://play.google.com/store)
   
 
 ## Qualidade de Software
