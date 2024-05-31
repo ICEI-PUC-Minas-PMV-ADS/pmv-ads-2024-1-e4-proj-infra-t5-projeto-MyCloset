@@ -34,17 +34,17 @@ O diagrama DER facilita a visualização do modelo de dados do sistema, ajudando
 O esquema relacional representa os dados em tabelas, juntamente com as restrições de integridade e as chaves primárias. O projeto **My Closet** visa organizar e gerenciar informações sobre peças de vestuário, looks e categorias de moda, associando esses dados a usuários individuais. O esquema relacional proposto é composto por quatro tabelas principais: **Usuários**, **Peças**, **Looks** e **Categorias**.
 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/blob/main/docs/img/Esquema%20relacional-%20My%20Closet.drawio%20(1).png)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/blob/main/docs/img/Esquema%20relacional%20aj-%20My%20Closet.drawio.png)
 
 
-## Estrutura das Tabelas
+**Estrutura das Tabelas**
 
-1. **Usuarios**:
+1. **Usuários**:
    - Contém informações detalhadas sobre os usuários, incluindo dados pessoais, ocupação, e data de cadastro.
    - **Chaves Primárias (PK)**: `id_usuario`
    - **Chaves Estrangeiras (FK)**: `id_pecas (FK)`, `id_looks (FK)`, `id_categorias (FK)`
 
-2. **Pecas**:
+2. **Peças**:
    - Armazena detalhes das peças de vestuário, como nome, cor, tamanho e tecido.
    - **Chave Primária (PK)**: `id_pecas`
    - **Chaves Estrangeiras (FK)**: `id_usuario (FK)`, `id_looks (FK)`, `id_categorias (FK)`
@@ -59,9 +59,9 @@ O esquema relacional representa os dados em tabelas, juntamente com as restriç�
    - **Chave Primária (PK)**: `id_categoria`
    - **Chaves Estrangeiras (FK)**: `id_pecas (FK)`, `id_usuario (FK)`, `id_looks (FK)`
 
-## Relacionamentos
+**Relacionamentos**
 
-- **Usuarios** possui relacionamentos de chave estrangeira com **Pecas**, **Looks** e **Categorias**, garantindo a integridade referencial e a correta associação de dados entre as tabelas.
+- **Usuários** possui relacionamentos de chave estrangeira com **Peças**, **Looks** e **Categorias**, garantindo a integridade referencial e a correta associação de dados entre as tabelas.
 
 Este esquema relacional foi projetado para otimizar o gerenciamento de dados de moda, proporcionando uma estrutura robusta e eficiente que suporta operações de consulta e manutenção de forma consistente.
 
@@ -104,9 +104,49 @@ Este esquema relacional foi projetado para otimizar o gerenciamento de dados de 
 13. Jest.
 
 
-## Hospedagem
+### Hospedagem
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-pmv-ads-2024-1-e4-proj-infra-t5-grupo05/assets/161225132/c8b6c80f-7c16-449d-ba04-887098589807)
+![My Closet - Seu Guarda Roupa Inteligente](https://path/to/your/logo.png)
+
+Na etapa de hospedagem, o aplicativo foi publicado em um servidor. Como um software de aplicação distribuída, é essencial garantir que todos os componentes do sistema funcionem harmoniosamente em diferentes servidores e locais.
+
+A escolha do servidor atendeu aos seguintes requisitos:
+
+- **Capacidade**: O servidor deve ter capacidade suficiente para suportar o tráfego esperado do aplicativo.
+- **Segurança**: O servidor deve ser seguro para proteger o aplicativo de ataques.
+- **Performance**: O servidor deve fornecer desempenho suficiente para garantir que o aplicativo seja responsivo.
+
+---
+
+### LANÇAMENTO
+
+Na etapa de lançamento, o aplicativo foi disponibilizado para os usuários.
+
+O lançamento foi realizado nas seguintes plataformas:
+
+- **Loja de aplicativos**: O aplicativo é publicado nas lojas de aplicativos, como App Store e Google Play.
+
+
+### HOSPEDAGEM
+
+Na etapa de hospedagem, o aplicativo foi publicado em um servidor. Como um software de aplicação distribuída, é essencial garantir que todos os componentes do sistema funcionem harmoniosamente em diferentes servidores e locais.
+
+A escolha do servidor atendeu aos seguintes requisitos:
+
+- **Capacidade**: O servidor deve ter capacidade suficiente para suportar o tráfego esperado do aplicativo.
+- **Segurança**: O servidor deve ser seguro para proteger o aplicativo de ataques.
+- **Performance**: O servidor deve fornecer desempenho suficiente para garantir que o aplicativo seja responsivo.
+
+---
+
+### LANÇAMENTO
+
+Na etapa de lançamento, o aplicativo foi disponibilizado para os usuários.
+
+O lançamento foi realizado nas seguintes plataformas:
+
+- **Loja de aplicativos**: O aplicativo é publicado nas lojas de aplicativos, como App Store e Google Play.
+  
 
 ## Qualidade de Software
 
