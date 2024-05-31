@@ -104,9 +104,7 @@ Este esquema relacional foi projetado para otimizar o gerenciamento de dados de 
 13. Jest.
 
 
-### Hospedagem
-
-![My Closet - Seu Guarda Roupa Inteligente](https://path/to/your/logo.png)
+## Hospedagem
 
 Na etapa de hospedagem, o aplicativo foi publicado em um servidor. Como um software de aplicação distribuída, é essencial garantir que todos os componentes do sistema funcionem harmoniosamente em diferentes servidores e locais.
 
@@ -116,36 +114,19 @@ A escolha do servidor atendeu aos seguintes requisitos:
 - **Segurança**: O servidor deve ser seguro para proteger o aplicativo de ataques.
 - **Performance**: O servidor deve fornecer desempenho suficiente para garantir que o aplicativo seja responsivo.
 
----
-
-### LANÇAMENTO
-
-Na etapa de lançamento, o aplicativo foi disponibilizado para os usuários.
-
-O lançamento foi realizado nas seguintes plataformas:
-
-- **Loja de aplicativos**: O aplicativo é publicado nas lojas de aplicativos, como App Store e Google Play.
 
 
-### HOSPEDAGEM
-
-Na etapa de hospedagem, o aplicativo foi publicado em um servidor. Como um software de aplicação distribuída, é essencial garantir que todos os componentes do sistema funcionem harmoniosamente em diferentes servidores e locais.
-
-A escolha do servidor atendeu aos seguintes requisitos:
-
-- **Capacidade**: O servidor deve ter capacidade suficiente para suportar o tráfego esperado do aplicativo.
-- **Segurança**: O servidor deve ser seguro para proteger o aplicativo de ataques.
-- **Performance**: O servidor deve fornecer desempenho suficiente para garantir que o aplicativo seja responsivo.
-
----
-
-### LANÇAMENTO
+## Lançamento
 
 Na etapa de lançamento, o aplicativo foi disponibilizado para os usuários.
 
 O lançamento foi realizado nas seguintes plataformas:
 
 - **Loja de aplicativos**: O aplicativo é publicado nas lojas de aplicativos, como App Store e Google Play.
+  
+
+[![App Store](./assets/app-store-badge.png)](https://www.apple.com/app-store/)
+[![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store)
   
 
 ## Qualidade de Software
