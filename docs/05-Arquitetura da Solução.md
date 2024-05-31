@@ -133,8 +133,35 @@ O lançamento foi realizado nas seguintes plataformas:
 ## Qualidade de Software
 
 A norma ISO 9126 é uma norma internacional que define um conjunto de características e subcaracterísticas para a avaliação da qualidade de software.  A escolha específica de características e subcaracterísticas dependerá das necessidades e objetivos do projeto de software.
-![![0bb2b6e2-9941-492f-ab11-e75b531b5179](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/assets/104511336/92ca2769-6662-4c64-82b4-06843a718be6)
-imagem da tabela de qualidade de software](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/blob/main/docs/img/Qualidade%20de%20Softwere-1.png)
+
+**Tabela de qualidade de software**
+
+| Característica               | Subcaracterística     | Definição                                                                                                                                   |
+|------------------------------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| **1. Funcionalidade**        | Adequação Funcional   | ▪ Suporte para adicionar, visualizar e gerenciar roupas.                                                                                    |
+|                              |                       | ▪ Recomendações de roupas com base em preferências e clima.                                                                                 |
+|                              | Interoperabilidade    | ▪ Integração com outros aplicativos e dispositivos de moda.                                                                                 |
+|                              |                       | ▪ Compatibilidade com assistentes virtuais para sugestões de looks.                                                                         |
+|                              | Segurança de Acesso   | ▪ Controle de acesso para garantir que apenas o usuário autorizado possa gerenciar o guarda-roupa.                                          |
+| **2. Confiabilidade**        | Maturidade            | ▪ Garantia de que o software funcione sem falhas significativas.                                                                            |
+|                              | Tolerância a Falhas   | ▪ Capacidade de lidar com erros sem interrupção significativa no serviço.                                                                   |
+| **3. Usabilidade**           | Inteligibilidade      | ▪ Interface de usuário clara e intuitiva para adicionar e gerenciar roupas.                                                                 |
+|                              | Aprendizado           | ▪ Facilidade de uso para novos usuários.                                                                                                    |
+|                              | Operacionalidade      | ▪ Eficiência na realização de tarefas relacionadas ao guarda-roupa.                                                                         |
+| **4. Eficiência**            | Desempenho            | ▪ Tempo de resposta rápido ao adicionar ou visualizar roupas.                                                                               |
+|                              | Utilização de Recursos| ▪ Uso eficiente de recursos de hardware e software.                                                                                         |
+| **5. Manutenibilidade**      | Modificabilidade      | ▪ Facilidade de fazer alterações no software para adicionar novos recursos.                                                                 |
+|                              | Estabilidade          | ▪ Garantia de que as alterações não causem efeitos colaterais indesejados.                                                                  |
+| **6. Portabilidade**         | Adaptabilidade        | ▪ Capacidade de ser executado em diferentes dispositivos e sistemas operacionais.                                                           |
+|                              | Coexistência          | ▪ Capacidade de funcionar em conjunto com outros aplicativos ou sistemas.                                                                   |
+| **7. Funcionalidade de Segurança**| Confidencialidade  | ▪ Proteção dos dados do usuário, como informações de roupas e preferências.                                                                  |
+|                              | Integridade           | ▪ Garantia de que os dados do guarda-roupa não sejam alterados sem autorização.                                                             |
+| **8. Documentação**          | Manual do Usuário     | ▪ Fornecimento de documentação clara sobre como usar o software.                                                                            |
+|                              | Documentação Técnica  | ▪ Documentação para desenvolvedores que desejam estender o software.                                                                        |
+| **9. Portabilidade**         | Adaptabilidade        | ▪ Capacidade de funcionar em diferentes dispositivos, como smartphones e computadores.                                                      |
+|                              | Coexistência          | ▪ Integração com outros sistemas ou aplicativos relacionados à moda.                                                                        |
+
+
 
 ## Requisitos de Qualidade
 
