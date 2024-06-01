@@ -129,16 +129,16 @@ A Tabela a seguir apresenta os requisitos funcionais do projeto, bem como suas p
 
 |ID    | Descrição do Requisito                                                                                     |Prioridade|
 |------|------------------------------------------------------------------------------------------------------------|----------|
-|RF-001| Permitir que o usário crie um cadastro de acesso (registro)                                                |   ALTA   |
+|RF-001| Permitir que o usário crie um cadastro de acesso. (registro)                                               |   ALTA   |
 |RF-002| Os usuários devem conseguir realizar o cadastro de nova conta.                                             |   BAIXA  |
 |RF-003| Permitir que o usário acesse a conta através de login e senha                                              |   ALTA   | 
 |RF-004| Permitir que o usuário cadastre (adicione) novas peças de roupas.                                          |   ALTA   | 
-|RF-005| Os usuários podem adicionar uma foto da roupa ao cadastrá-la.                                              |   ALTA   |
-|RF-006| Os usuários podem visualizar os itens cadastrados em uma galeria                                           |   ALTA   |
-|RF-007| Permitir aos usuários remover roupas cadastradas.                                                          |   ALTA   |
-|RF-008| Permitir aos usuários favoritar peças e looks                                                              |   ALTA   |
-|RF-009| Os usuários devem poder criar looks combinando diferentes peças de roupa do seu guarda-roupa.              |   MÉDIA  | 
-|RF-010| Os usuários podem filtrar suas roupas por categorias (por exemplo, camisetas, calças, vestidos, etc.).     |   ALTA   | 
+|RF-005| Os usuários devem poder criar novos looks e salvalos.                                                      |   ALTA   |
+|RF-006| Os usuários podem visualizar os items cadastrados em uma galeria.                                          |   ALTA   |
+|RF-007| Permitir que aos usuários removam os items cadastradas.                                                    |   ALTA   |
+|RF-008| Os usuários devem poder criar looks combinando diferentes peças de roupa do seu guarda-roupa.              |   MÉDIA  | 
+|RF-009| Os usuários podem filtrar suas roupas por categorias (por exemplo, camisetas, calças, vestidos, etc.)      |   ALTA   |
+
 
 
 ### Requisitos não Funcionais
@@ -147,8 +147,8 @@ A tabela a seguir apresenta então os requisitos não funcionais do projeto, apr
 
 |ID     | Descrição do Requisito                                                                                                                                               |Prioridade |
 |-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
-|RNF-001| O sistema deve ser desenvolvida em uma Aplicação Distribuída.                                                                                                           |   MÉDIA   | 
-|RNF-002| O aplicativo deve responder de forma rápida e suave aos comandos do usuário, minimizando atrasos e travamentos.                                                      |   MEDIA   | 
+|RNF-001| O sistema deve ser desenvolvida em uma Aplicação Distribuída.                                                                                                           | MÉDIA| 
+|RNF-002| O aplicativo deve responder de forma rápida e suave aos comandos do usuário, minimizando atrasos e travamentos.                                                      |   MEDIA  | 
 |RNF-003| A interface do usuário deve ser intuitiva e de fácil compreensão, permitindo que os usuários interajam com o aplicativo sem dificuldades.                            |   ALTA    |
 |RNF-004| Dados pessoais dos usuários, como informações de login e detalhes do guarda-roupa, devem ser protegidos por meio de criptografia e práticas seguras de armazenamento.|   ALTA    |
 |RNF-005| O código-fonte do aplicativo deve ser organizado de forma modular e reutilizável para facilitar a manutenção e futuras atualizações.                                 |   MEDIA   |
