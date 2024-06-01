@@ -133,11 +133,12 @@ A Tabela a seguir apresenta os requisitos funcionais do projeto, bem como suas p
 |RF-002| Os usuários devem conseguir realizar o cadastro de nova conta.                                             |   BAIXA  |
 |RF-003| Permitir que o usário acesse a conta através de login e senha                                              |   ALTA   | 
 |RF-004| Permitir que o usuário cadastre (adicione) novas peças de roupas.                                          |   ALTA   | 
-|RF-005| Os usuários devem poder criar novos looks e salvalos.                                                      |   ALTA   |
+|RF-005| Os usuários pode dar categorias aos itens cadastrados, como cor e tamanho.                                 |   ALTA   |
 |RF-006| Os usuários podem visualizar os itens cadastrados em uma galeria.                                          |   ALTA   |
 |RF-007| Permitir que aos usuários removam os itens cadastrados.                                                    |   ALTA   |
 |RF-008| Os usuários devem poder criar looks combinando diferentes peças de roupa do seu guarda-roupa.              |   MÉDIA  | 
 |RF-009| Os usuários podem filtrar suas roupas por categorias (por exemplo, camisetas, calças, vestidos, etc.)      |   ALTA   |
+|RF-010| Os usuários podem salvar looks a categoria de favoritos.                                                   |   ALTA   |
 
 
 
