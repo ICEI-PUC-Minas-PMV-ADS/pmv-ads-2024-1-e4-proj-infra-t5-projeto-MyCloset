@@ -243,6 +243,7 @@ A equipe foi organizada, conforme abaixo, da seguinte maneira:
 
   **Equipe de Desenvolvimento:**
   * Andressa Guedes
+  * Giovanna Maria Elias Coura
   * Sanderlei Cabral
   * Matheus Da Silva Câmara
   * Maria Júlia Silva Medeiros
