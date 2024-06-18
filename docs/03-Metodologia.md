@@ -57,9 +57,9 @@ Segue abaixo um resumo sobre a disposição das listas:
 
 A equipe foi organizada, conforme abaixo, da seguinte maneira:
 
-- **Scrum Master:** Andressa Guedes
+- **Scrum Master:** Matheus Da Silva Câmara
 
-- **Product Owner:** Andressa Guedes
+- **Product Owner:** Maria Júlia Silva Medeiros
 
   **Equipe de Desenvolvimento:**
   * Andressa Guedes
