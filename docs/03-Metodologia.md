@@ -9,7 +9,7 @@
 |Repositório de código fonte|Github | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-pmv-ads-2024-1-e4-proj-infra-t5-grupo05| 
 |Documentos do projeto| Google Drive| X |
 |Projeto de Interface e Wireframes| Figma | X |
-|Gerenciamento do Projeto| Trello | X |
+|Gerenciamento do Projeto| Trello | https://trello.com/b/UhRkTRgs/ads-my-closet-4-eixo |
 
 ## Controle de Versão
 
