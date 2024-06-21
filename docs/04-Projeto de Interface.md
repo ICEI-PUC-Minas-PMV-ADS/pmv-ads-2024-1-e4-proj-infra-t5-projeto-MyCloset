@@ -9,7 +9,6 @@ Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada
 
 ![Projeto de interface_interação do usuário](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/blob/main/docs/img/wireframes_web_mobile.png)
 
-![Projeto de interface_interação do usuário](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-pmv-ads-2024-1-e4-proj-infra-t5-grupo05/blob/main/docs/img/Projeto%20de%20interface.jpg)
 
 ## Diagrama de Fluxo
 
