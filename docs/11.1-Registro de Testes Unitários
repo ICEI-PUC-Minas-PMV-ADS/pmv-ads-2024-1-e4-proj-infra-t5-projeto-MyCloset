@@ -3,17 +3,11 @@
 ### Relatório de Registro de Testes Unitários
 
 Durante o desenvolvimento do código JavaScript, foram realizados testes unitários utilizando a biblioteca Mocha. Para garantir a qualidade e a robustez do software, uma pasta dedicada aos testes foi criada dentro do projeto, onde foram adicionados casos de testes específicos para os controllers.
-
 Os testes unitários têm o objetivo de verificar o comportamento isolado de cada função nos controllers. Cada teste foi projetado para simular diferentes cenários de entrada e avaliar se as saídas esperadas estão corretas de acordo com as especificações.
-
 A utilização da biblioteca Mocha proporcionou um ambiente estruturado e eficiente para a criação e execução dos testes. Os resultados dos testes foram documentados e analisados para garantir que todas as funcionalidades estão operando conforme o esperado.
-
 Essa abordagem de teste unitário não apenas identifica potenciais problemas no código, mas também facilita a manutenção contínua e a integração de novas funcionalidades com maior confiança.
-
 Os testes unitários são essenciais para assegurar a estabilidade do sistema ao longo do tempo, garantindo que mudanças futuras não introduzam regressões ou comportamentos inesperados.
-
 Com todos os testes unitários passando com sucesso, estamos confiantes na estabilidade e na qualidade do código desenvolvido, assegurando que as funcionalidades implementadas atendam
-
 aos requisitos de negócio de forma robusta e confiável. Este processo reforça o compromisso com a excelência no desenvolvimento de software e na entrega de soluções de alto padrão aos nossos usuários e clientes.
 
 ### Evidencias:
