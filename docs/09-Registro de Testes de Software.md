@@ -14,7 +14,7 @@
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/assets/106553544/92983a98-e055-40d9-887a-bfa5e0291274)
 
 - Resultado esperado: O sistema impede o cadastro e informa que o e-mail já está em uso.
-- 
+
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/assets/106553544/87351e4d-607f-4fa0-85c0-83187d9f32e9)
 
 
