@@ -8,7 +8,7 @@
 |------|--------------------|----|
 |Repositório de código fonte|Github | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-pmv-ads-2024-1-e4-proj-infra-t5-grupo05| 
 |Documentos do projeto| Google Drive| https://drive.google.com/drive/folders/1-EUOiVBxd1VdpoqD4iaMed1EuwdqdaAk?usp=sharing |
-|Projeto de Interface e Wireframes| Figma |https://www.figma.com/design/E9CU2xP2zjnJagvvJTNFXS/mycloset-(Copy)?node-id=0-1&t=TqbcJFDuVCtUVk2r-0 |
+|Projeto de Interface e Wireframes| Figma/trello |Figma: https://www.figma.com/design/E9CU2xP2zjnJagvvJTNFXS/mycloset-(Copy)?node-id=0-1&t=TqbcJFDuVCtUVk2r-0 Trello: https://lucid.app/lucidchart/invitations/accept/inv_868e031d-92ce-4b06-851d-10deade25c2b |
 |Gerenciamento do Projeto| Trello | https://trello.com/b/UhRkTRgs/ads-my-closet-4-eixo |
 
 ## Controle de Versão
