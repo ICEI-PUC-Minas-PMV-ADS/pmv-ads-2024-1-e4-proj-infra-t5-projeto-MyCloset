@@ -10,7 +10,8 @@ Nome e marca do projeto
 
 ## Identidade Visual (Marca, Design)
 
-O grupo deve ter o cuidado em utilizar figuras, imagens, e cores dentro do contexto da solução proposta, de forma a manter a temática do problema.
+A logo do "My Closet" é composta por um círculo preto com a palavra "Closet" no centro, utilizando uma tipografia moderna e legível, com o nome "My Closet" abaixo do círculo. As cores preto, cinza e branco foram escolhidas para transmitir elegância, sofisticação e versatilidade, refletindo a proposta do aplicativo de ser uma ferramenta estilosa e funcional para organização de guarda-roupas.
+![LOGO]()
 
 > **Links Úteis**:
 > - [10 dicas de design para slides](https://rockcontent.com/blog/design-para-slides/)
