@@ -14,6 +14,7 @@ Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada
 
 O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema interativo e  muitas vezes sem a necessidade do desenho do design das telas da interface. Isso permite que o design das interações seja bem planejado e gere impacto na qualidade no design do wireframe interativo que será desenvolvido logo em seguida.
 As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas de Fluxo”.
+
 **1.Versão WEB:**
 
 ![Diagrama de fluxo](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/blob/main/docs/img/diagrama_fluxo_web.png)
