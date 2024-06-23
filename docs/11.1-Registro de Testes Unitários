@@ -7,8 +7,7 @@ Os testes unitários têm o objetivo de verificar o comportamento isolado de cad
 A utilização da biblioteca Mocha proporcionou um ambiente estruturado e eficiente para a criação e execução dos testes. Os resultados dos testes foram documentados e analisados para garantir que todas as funcionalidades estão operando conforme o esperado.
 Essa abordagem de teste unitário não apenas identifica potenciais problemas no código, mas também facilita a manutenção contínua e a integração de novas funcionalidades com maior confiança.
 Os testes unitários são essenciais para assegurar a estabilidade do sistema ao longo do tempo, garantindo que mudanças futuras não introduzam regressões ou comportamentos inesperados.
-Com todos os testes unitários passando com sucesso, estamos confiantes na estabilidade e na qualidade do código desenvolvido, assegurando que as funcionalidades implementadas atendam
-aos requisitos de negócio de forma robusta e confiável. Este processo reforça o compromisso com a excelência no desenvolvimento de software e na entrega de soluções de alto padrão aos nossos usuários e clientes.
+Com todos os testes unitários passando com sucesso, estamos confiantes na estabilidade e na qualidade do código desenvolvido, assegurando que as funcionalidades implementadas atendam aos requisitos de negócio de forma robusta e confiável. Este processo reforça o compromisso com a excelência no desenvolvimento de software e na entrega de soluções de alto padrão aos nossos usuários e clientes.
 
 ### Evidencias:
 
