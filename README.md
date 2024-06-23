@@ -57,5 +57,5 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 <li><a href="presentation/README.md"> Apresentação da solução</a></li>
 
 
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-pmv-ads-2024-1-e4-proj-infra-t5-grupo05/assets/102192585/d30fc5e3-effd-4291-8ec5-7cb84e9a39d6
+[video](https://sgapucminasbr-my.sharepoint.com/personal/1341139_sga_pucminas_br/_layouts/15/guestaccess.aspx?share=ETQtYhm0Z85Is8iGIpZzi-MBDBF9VPns4EVocjlkKBWY5Q&e=JE3kug)
 
