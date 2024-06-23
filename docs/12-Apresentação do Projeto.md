@@ -6,12 +6,12 @@ Conjunto de slides em um arquivo PowerPoint ou PDF com a apresentação do proje
 
 ## Título do Projeto
 
-Nome e marca do projeto
+# My Closet
 
 ## Identidade Visual (Marca, Design)
 
 A logo do "My Closet" é composta por um círculo preto com a palavra "Closet" no centro, utilizando uma tipografia moderna e legível, com o nome "My Closet" abaixo do círculo. As cores preto, cinza e branco foram escolhidas para transmitir elegância, sofisticação e versatilidade, refletindo a proposta do aplicativo de ser uma ferramenta estilosa e funcional para organização de guarda-roupas.
-![LOGO]()
+![LOGO](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/blob/main/docs/img/logo_nova.png)
 
 > **Links Úteis**:
 > - [10 dicas de design para slides](https://rockcontent.com/blog/design-para-slides/)
