@@ -1,13 +1,15 @@
 # Template Padrão da Aplicação
 
-| ![Tela 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/blob/main/docs/img/Page%201%20-%20mycloset%20(Copy)%20-%20Google%20Chrome%2023_06_2024%2009_30_07.png)) | ![registro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/blob/main/docs/img/Page%201%20-%20mycloset%20(Copy)%20-%20Google%20Chrome%2023_06_2024%2009_31_15.png) | ![login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/blob/main/docs/img/login-page.png)| 
+## Template mobile
+
+| ![home](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/blob/main/docs/img/Page%201%20-%20mycloset%20(Copy)%20-%20Google%20Chrome%2023_06_2024%2009_30_07.png) | ![registro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/blob/main/docs/img/Page%201%20-%20mycloset%20(Copy)%20-%20Google%20Chrome%2023_06_2024%2009_31_15.png) | ![login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/blob/main/docs/img/login-page.png)| 
 |-------------------------------------------|-------------------------------------------|-------------------------------------------|
-| ![Tela 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/blob/main/docs/img/tela-1.png) | ![ botão de acrescentar look](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/blob/main/docs/img/Page%201%20-%20mycloset%20(Copy)%20-%20Google%20Chrome%2023_06_2024%2009_32_38.png) | ![Add looks](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/blob/main/docs/img/add%20looks.png) |
-|--------------------------------------------|------------------------------------------|--------------------------------------------|
-| ![Salvar looks](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/blob/main/docs/img/Page%201%20-%20mycloset%20(Copy)%20-%20Google%20Chrome%2023_06_2024%2009_34_23.png) | ![Favoritar looks](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/blob/main/docs/img/Page%201%20-%20mycloset%20(Copy)%20-%20Google%20Chrome%2023_06_2024%2009_35_30.png) | ![Imagem 3](images/imagem3.jpg) |
+| ![Tela 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/blob/main/docs/img/tela-1.png) | ![ botão de acrescentar look](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/blob/main/docs/img/Page%201%20-%20mycloset%20(Copy)%20-%20Google%20Chrome%2023_06_2024%2009_32_38.png) | ![Add peças](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/blob/main/docs/img/Page%201%20-%20mycloset%20(Copy)%20-%20Google%20Chrome%2023_06_2024%2009_33_35.png)|
+
+| ![Salvar looks](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/blob/main/docs/img/Page%201%20-%20mycloset%20(Copy)%20-%20Google%20Chrome%2023_06_2024%2009_34_23.png) | ![looks completos](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/blob/main/docs/img/add%20looks.png) | ![Favoritar](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/blob/main/docs/img/Page%201%20-%20mycloset%20(Copy)%20-%20Google%20Chrome%2023_06_2024%2009_35_30.png) |
 |--------------------------------------------|-------------------------------------------|--------------------------------------------|
 |![Galeria](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/blob/main/docs/img/galeria%20de%20looks.png)|
-|--------------------------------------------|
+
 
 Layout padrão da aplicação que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
