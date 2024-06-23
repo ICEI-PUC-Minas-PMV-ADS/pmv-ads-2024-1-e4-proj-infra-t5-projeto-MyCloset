@@ -2,51 +2,51 @@
 
 #### **Caso de teste 01**
 
-RF-001 Permitir que o usuário crie um cadastro de acesso (registro)
-Cenário: Usuário cria um novo cadastro com informações válidas
-Passos:
-Acessar a página de registro.
-Preencher todos os campos obrigatórios com dados válidos.
-Clicar no botão de registro.
-Resultado esperado: O usuário é cadastrado com sucesso e redirecionado para a página inicial.
-Cenário: Tentativa de cadastro com informações inválidas
-Passos:
-Acessar a página de registro.
-Preencher os campos com informações inválidas (ex: e-mail inválido, senha curta).
-Clicar no botão de registro.
-Resultado esperado: O sistema exibe mensagens de erro específicas para os campos incorretos.
+# RF-001 Permitir que o usuário crie um cadastro de acesso (registro)
+# Cenário: Usuário cria um novo cadastro com informações válidas
+# Passos:
+# Acessar a página de registro.
+# Preencher todos os campos obrigatórios com dados válidos.
+# Clicar no botão de registro.
+# Resultado esperado: O usuário é cadastrado com sucesso e redirecionado para a página inicial.
+# Cenário: Tentativa de cadastro com informações inválidas
+# Passos:
+# Acessar a página de registro.
+# Preencher os campos com informações inválidas (ex: e-mail inválido, senha curta).
+# Clicar no botão de registro.
+# Resultado esperado: O sistema exibe mensagens de erro específicas para os campos incorretos.
 
 #### **Caso de teste 02**
 
-RF-002 Os usuários devem conseguir realizar o cadastro de nova conta
-Cenário: Usuário cria uma nova conta com sucesso
-Passos:
-Acessar a página de registro.
-Preencher todos os campos obrigatórios com informações válidas.
-Clicar no botão de registro.
-Resultado esperado: O sistema confirma o cadastro e permite o login com a nova conta.
-Cenário: Tentativa de criar conta com e-mail já existente
-Passos:
-Acessar a página de registro.
-Preencher os campos com um e-mail já registrado.
-Clicar no botão de registro.
-Resultado esperado: O sistema impede o cadastro e informa que o e-mail já está em uso.
+# RF-002 Os usuários devem conseguir realizar o cadastro de nova conta
+# Cenário: Usuário cria uma nova conta com sucesso
+# Passos:
+# Acessar a página de registro.
+# Preencher todos os campos obrigatórios com informações válidas.
+# Clicar no botão de registro.
+# Resultado esperado: O sistema confirma o cadastro e permite o login com a nova conta.
+# Cenário: Tentativa de criar conta com e-mail já existente
+# Passos:
+# Acessar a página de registro.
+# Preencher os campos com um e-mail já registrado.
+# Clicar no botão de registro.
+# Resultado esperado: O sistema impede o cadastro e informa que o e-mail já está em uso.
 
 #### **Caso de teste 03**
 
-RF-003 Permitir que o usuário acesse a conta através de login e senha
-Cenário: Usuário faz login com credenciais válidas
-Passos:
-Acessar a página de login.
-Preencher o campo de e-mail e senha corretamente.
-Clicar no botão de login.
-Resultado esperado: O usuário é redirecionado para a página inicial logado na conta.
-Cenário: Tentativa de login com credenciais inválidas
-Passos:
-Acessar a página de login.
-Preencher o campo de e-mail e senha com informações incorretas.
-Clicar no botão de login.
-Resultado esperado: O sistema exibe uma mensagem de erro indicando que as credenciais estão incorretas.
+# RF-003 Permitir que o usuário acesse a conta através de login e senha
+# Cenário: Usuário faz login com credenciais válidas
+# Passos:
+# Acessar a página de login.
+# Preencher o campo de e-mail e senha corretamente.
+# Clicar no botão de login.
+# Resultado esperado: O usuário é redirecionado para a página inicial logado na conta.
+# Cenário: Tentativa de login com credenciais inválidas
+# Passos:
+# Acessar a página de login.
+# Preencher o campo de e-mail e senha com informações incorretas.
+# Clicar no botão de login.
+# Resultado esperado: O sistema exibe uma mensagem de erro indicando que as credenciais estão incorretas.
 
 #### **Caso de teste 04**
 
