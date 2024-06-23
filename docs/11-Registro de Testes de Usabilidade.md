@@ -16,7 +16,9 @@ Os testes de usabilidade foram realizados com um grupo diversificado de usuário
 
 **Evidências:**
 - Screenshots do formulário de registro preenchido e da mensagem de confirmação.
+
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/assets/106553544/7eba2634-eca4-43ab-99f4-71a8514b264a)
+
 - Relatos positivos sobre a clareza dos campos e a simplicidade do processo.
 
 #### RF-002 Os usuários devem conseguir realizar o cadastro de nova conta
@@ -27,7 +29,9 @@ Os testes de usabilidade foram realizados com um grupo diversificado de usuário
 
 **Evidências:**
 - Capturas de tela do processo de criação de conta e da mensagem de sucesso.
+
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/assets/106553544/d4622f8b-6808-4f84-afd7-ff4160bb1b17)
+
 - Relatos dos usuários sobre a facilidade de navegação após o registro.
 
 #### RF-003 Permitir que o usuário acesse a conta através de login e senha
@@ -38,7 +42,9 @@ Os testes de usabilidade foram realizados com um grupo diversificado de usuário
 
 **Evidências:**
 - Capturas de tela do processo de login, incluindo mensagens de erro e sucesso.
+  
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/assets/106553544/09c97844-d6d7-43ad-aa39-fcf39ec5aa97)
+
 - Relatos dos usuários destacando a simplicidade e clareza das mensagens de erro.
 
 #### RF-004 Permitir que o usuário cadastre (adicione) novas peças de roupas
@@ -49,7 +55,9 @@ Os testes de usabilidade foram realizados com um grupo diversificado de usuário
 
 **Evidências:**
 - Screenshots do formulário de adição de roupas preenchido e da confirmação de adição.
-- ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/assets/106553544/99284d73-1124-4403-afa1-d0421f71ecb4)
+  
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/assets/106553544/99284d73-1124-4403-afa1-d0421f71ecb4)
+
 - Relatos positivos sobre a clareza das opções de categorização.
 
 #### RF-005 Os usuários podem dar categorias aos itens cadastrados, como cor e tamanho
@@ -60,7 +68,9 @@ Os testes de usabilidade foram realizados com um grupo diversificado de usuário
 
 **Evidências:**
 - Capturas de tela do processo de categorização e das peças categorizadas.
+  
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/assets/106553544/fdc3190e-6bba-4f3a-abc9-3d3bc28e5729)
+
 - Relatos dos usuários sobre a utilidade das categorias personalizadas.
 
 #### RF-006 Os usuários podem visualizar os itens cadastrados em uma galeria
@@ -71,7 +81,9 @@ Os testes de usabilidade foram realizados com um grupo diversificado de usuário
 
 **Evidências:**
 - Screenshots da galeria de itens cadastrados.
+
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/assets/106553544/3bf2fbdc-9ff7-4de1-aacc-6a46203427cd)
+
 - Relatos positivos sobre a facilidade de encontrar itens específicos.
 
 #### RF-007 Permitir que os usuários removam os itens cadastrados
@@ -82,7 +94,9 @@ Os testes de usabilidade foram realizados com um grupo diversificado de usuário
 
 **Evidências:**
 - Capturas de tela do processo de remoção e da confirmação de remoção.
+
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/assets/106553544/1387bc9e-1ce5-4c05-81f2-4ac33fec3c04)
+
 - Relatos dos usuários sobre a segurança e clareza do processo de remoção.
 
 #### RF-008 Os usuários devem poder criar looks combinando diferentes peças de roupa do seu guarda-roupa
@@ -93,7 +107,9 @@ Os testes de usabilidade foram realizados com um grupo diversificado de usuário
 
 **Evidências:**
 - Screenshots do processo de criação de looks e da visualização prévia.
+
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/assets/106553544/d48da084-4dd1-4059-acd0-10fe383918cf)
+
 - Relatos positivos sobre a facilidade de combinação e visualização das peças.
 
 #### RF-009 Os usuários podem filtrar suas roupas por categorias (por exemplo, camisetas, calças, vestidos, etc.)
@@ -104,7 +120,9 @@ Os testes de usabilidade foram realizados com um grupo diversificado de usuário
 
 **Evidências:**
 - Capturas de tela do processo de filtragem e dos resultados filtrados.
+
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/assets/106553544/84660759-a80a-47db-9663-77f3feeedbf2)
+
 - Relatos dos usuários sobre a eficácia e utilidade dos filtros.
 
 #### RF-010 Os usuários podem salvar looks na categoria de favoritos
@@ -115,7 +133,9 @@ Os testes de usabilidade foram realizados com um grupo diversificado de usuário
 
 **Evidências:**
 - Screenshots do processo de marcação de favoritos e da lista de favoritos.
+
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/assets/106553544/6713dde9-051a-4324-acd2-aa15c4772bba)
+
 - Relatos positivos sobre a organização e acesso aos looks favoritos.
 
 ### Relatos dos Usuários
