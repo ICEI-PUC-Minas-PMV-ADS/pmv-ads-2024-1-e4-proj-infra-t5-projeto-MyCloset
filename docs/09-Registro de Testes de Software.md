@@ -1,17 +1,21 @@
-# Registro de Testes de Software
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/assets/104511336/ebb88681-23e5-4c7a-a80b-c1810ae23cc5)# Registro de Testes de Software
 
 <span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>, <a href="8-Plano de Testes de Software.md"> Plano de Testes de Software</a>
 
 #### Evidencia caso de teste 01 e 02:
 - Resultado esperado: O usuário é cadastrado com sucesso e redirecionado para a página inicial.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/assets/106553544/342834ef-46d7-4e0f-965a-af8cb9cc593a)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/assets/104511336/6dbf3b36-af4d-4a4b-8020-3a05da421306)
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/assets/106553544/b638be42-dc11-4d5b-9f3b-017b84b0f71f)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/assets/104511336/4d969f5d-9f43-466c-8054-149142ab4767)
+
+
 
 - Resultado esperado: O sistema exibe mensagens de erro específicas para os campos incorretos.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/assets/106553544/92983a98-e055-40d9-887a-bfa5e0291274)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/assets/104511336/37b20d13-4bd8-4162-8cd2-2c08fc07c649)
+
 
 - Resultado esperado: O sistema impede o cadastro e informa que o e-mail já está em uso.
 
@@ -30,37 +34,43 @@
 #### Evidencia caso de teste 04:
 - Resultado esperado: A nova peça de roupa é cadastrada com sucesso e aparece na lista de itens cadastrados.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/assets/106553544/df3d83f3-171a-4b22-93a1-63bcdbae359b)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/assets/104511336/8c9073aa-fc6d-4aba-a9c5-48b6e26d1f9f)
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/assets/106553544/98f2fcef-7c6f-43c3-ac59-87e7b92cdfb8)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/assets/104511336/acd88ac7-0859-46d6-94bd-ee9d69af6775)
+
 
 #### Evidencia caso de teste 05:
 - Resultado esperado: As categorias de cor e tamanho são atualizadas com sucesso para a peça de roupa.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/assets/106553544/82d8c9dd-6ac0-4ab8-a6dc-a6b3575b3183)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/assets/104511336/bc15e09a-32b8-44b4-a056-70cc899f90fc)
+
 
 #### Evidencia caso de teste 06:
 - Resultado esperado: Todos os itens cadastrados são exibidos corretamente na galeria.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/assets/106553544/250a146f-c625-4a0b-823f-21474e296099)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/assets/104511336/e3ad6b8b-e5c6-4c75-ad0c-e10fe63a58d5)
+
 
 #### Evidencia caso de teste 07:
 - Resultado esperado: A peça de roupa é removida com sucesso da lista de itens cadastrados.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/assets/106553544/949d0a84-f152-466e-ab67-caab2d4ad138)
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/assets/106553544/97b8c93f-c388-4764-a64c-fde8b22631c6)
+![Excluir peça](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/assets/104511336/d23d5698-8b1d-46c9-a03a-d6fe670bdd54)
+
 
 #### Evidencia caso de teste 08:
 - Resultado esperado: O look é salvo com sucesso e pode ser visualizado na lista de looks criados.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/assets/106553544/7177e180-2ec6-490e-8548-888256d5907b)
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/assets/106553544/cc0210d0-cf59-4616-9f9a-f7c1fec1c843)
+![Combinar looks](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/assets/104511336/bb0c41d3-ba73-476d-9fd5-d2495a5f553f)
+
+
 
 
 #### Evidencia caso de teste 09:
 - Resultado esperado: A lista de itens é atualizada mostrando apenas as camisetas cadastradas.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/assets/106553544/eb2b7b81-c7fa-48ff-b80d-564de8535ab7)
+![Search](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/assets/104511336/8760f91f-4d69-4837-82f9-ba6b9c07ff2c)
+
 
 #### Evidencia caso de teste 10:
 - Resultado esperado: O look é marcado como favorito e pode ser facilmente acessado na lista de looks favoritos.
