@@ -1,7 +1,8 @@
 # My Closet Online
 
-![Story app delivery farmacia moderno branco e azul](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-pmv-ads-2024-1-e4-proj-infra-t5-grupo05/assets/104511336/f20c55cd-fd9e-4be0-b831-55bfc42a48a3)
 
+
+![my closet](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-infra-t5-projeto-MyCloset/assets/104511336/65678219-1789-41f1-88f2-060875ffe121)
 
 
 `Tecnologia em Análise e Desenvolvimento de Sistemas`
@@ -28,7 +29,9 @@ Este projeto trata-se do desenvolvimento de uma aplicação funcional, com o int
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+#### 📂 Na pasta raíz instalar depedências com npm install, fazer o mesmo na pasta de client. (não necessário fazer na pasta API)
+#### 📂 my-closet-final/my-closet/my-closet > no terminal > npm run dev (front)
+#### 📂 my-closet-final/my-closet/my-closet/api > terminal > npm run dev (back end)
 
 # Documentação
 
@@ -47,6 +50,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 <li><a href="docs/11.1-Registro de Testes Unitários.md"> Registro de Testes Unitários</a></li> 
 <li><a href="docs/12-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
 <li><a href="docs/13-Referências.md"> Referências</a></li>
+<li><a href="docs/Sprint BD.md"> Sprint Banco de dados</a></li>
 </ol>
 
 # Código
